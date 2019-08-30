@@ -1,0 +1,10 @@
+{
+  "name": "acerola",
+  "info": "Rumored to be descended from an ancient Alolan dynasty, this Ghost-type Pokémon user serves as one of the Alola region's Elite Four.",
+  "base_potential": 5,
+  "recruit_method": "",
+  "pokemon_list": ["palossand"],
+  "image": "Acerola_1",
+  "icon": "ch0007_00_acerola_st_1003_128.ktx",
+  "sync_pair_story": "a-day-with-acerola"
+}

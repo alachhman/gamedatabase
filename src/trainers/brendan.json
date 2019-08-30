@@ -1,0 +1,10 @@
+{
+  "name": "brendan",
+  "info": "His goal is to be like his dad, Norman - a Gym Leader he really looks up to. He is a bit mischievous, but he is serious about Pokémon battles.",
+  "base_potential": 5,
+  "recruit_method": "sync-pair-scout",
+  "pokemon_list": ["treecko"],
+  "image": "Brendan_1",
+  "icon": "ch0019_00_yuki_st_1003_128.ktx",
+  "sync_pair_story": "a-day-with-brendan"
+}
