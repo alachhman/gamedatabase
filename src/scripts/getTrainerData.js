@@ -60,6 +60,5 @@ var json =
   '"}';
 
 json.select();
-json.setSelectionRange(0, 99999); /*For mobile devices*/
-
+json.setSelectionRange(0, 99999);
 document.execCommand("copy");
