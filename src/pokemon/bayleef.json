@@ -11,13 +11,69 @@
   "role": "",
   "base_potential": 0,
   "stats": {
-    "lvl_1": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_35": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_50": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_65": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_80": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_95": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 },
-    "lvl_100": { "HP": 0, "ATK": 0, "SP_A": 0, "DEF": 0, "SP_D": 0, "SPD": 0 }
+    "lvl_1": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_35": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_50": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_65": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_80": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_95": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    },
+    "lvl_100": {
+      "hp": 0,
+      "atk": 0,
+      "sp_a": 0,
+      "def": 0,
+      "sp_d": 0,
+      "sdp": 0,
+      "bulk": 0
+    }
   },
   "moves": [],
   "sync_move": "",
