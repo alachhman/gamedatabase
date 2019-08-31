@@ -40,7 +40,7 @@ var pokemon_trainer_node_pokemon_title = document.querySelectorAll(
   ".pokemon-trainer-node-pokemon-title"
 );
 pokemon_trainer_node_pokemon_title.forEach(function(node) {
-  pokemon_list.push(node.innerHTML.split("amp;").pop());
+  pokemon_list.push(node.innerHTML.split("amp; ").pop());
 });
 var json =
   '{"name":"' +
@@ -51,14 +51,16 @@ var json =
   base_potential +
   '","recruit_method":"' +
   recruit_method +
-  '","pokemon_list":"' +
+  '","pokemon_list":["' +
   pokemon_list +
-  '","image":"' +
+  '"],"image":"' +
   image +
-  '","sync_pair_story":"' +
+  '","sync_pair_story":["' +
   sync_pair_story +
-  '"}';
+  '"]}';
 
-json.select();
-json.setSelectionRange(0, 99999);
+var dummy = document.createElement("input");
+dummy.value = json;
+document.querySelector("body").appendChild(dummy);
+dummy.select();
 document.execCommand("copy");
