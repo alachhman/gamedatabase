@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Clay",
+  "info": "This Ground-type Gym Leader runs a mining company in Unova. He is a bit pushy but is admired by his employees and the community for his strong sense of justice.",
+  "base_potential": "3",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Palpitoad"],
+  "image": "Clay_1.png",
+  "sync_pair_story": ["A Day with Clay"]
 }

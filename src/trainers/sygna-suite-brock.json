@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Sygna Suit Brock",
+  "info": "Known as the rock-solid Pokémon Trainer, he is a reliable Gym Leader who watches over and supports younger Trainers.",
+  "base_potential": "3",
+  "recruit_method": "Costume",
+  "pokemon_list": ["Tyranitar"],
+  "image": "Sygna%20Suit%20Brock_0.png",
+  "sync_pair_story": ["A Day with Sygna Suit Brock"]
 }

@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Crasher Wake",
+  "info": "A Gym Leader who uses Water-type Pokémon, Crasher Wake is beloved by his many fans for his passionate performances.",
+  "base_potential": "3",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Floatzel"],
+  "image": "Crasher%20Wake_1.png",
+  "sync_pair_story": ["A Day with Crasher Wake"]
 }

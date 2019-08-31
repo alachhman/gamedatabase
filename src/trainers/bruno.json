@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Bruno",
+  "info": "A member of the Elite Four who believes that people and Pokémon can become stronger through rigorous - even extreme - training, he shouts \"Hoo Hah!\" to get fired up.",
+  "base_potential": "4",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Machamp"],
+  "image": "Bruno_1.png",
+  "sync_pair_story": ["A Day with Bruno"]
 }

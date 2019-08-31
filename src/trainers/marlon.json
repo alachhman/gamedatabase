@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Marlon",
+  "info": "This Gym Leader loves the ocean so much, people say he is a bigger splash than the sea. Since his Gym is right by the ocean, he swims whenever he has no challengers.",
+  "base_potential": "3",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Carracosta"],
+  "image": "Marlon_1.png",
+  "sync_pair_story": ["A Day with Marlon"]
 }

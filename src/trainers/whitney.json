@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Whitney",
+  "info": "A lively, talkative, trend-following Gym Leader who's proud of her cute Pokémon, she cries in disappointment when she loses a battle.",
+  "base_potential": "4",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Miltank"],
+  "image": "Whitney_1.png",
+  "sync_pair_story": ["A Day with Whitney"]
 }

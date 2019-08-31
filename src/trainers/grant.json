@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Grant",
+  "info": "A Gym Leader who excels at bouldering and is also a popular trendsetter, he tries to avoid sweets but they're actually one of his favorite things.",
+  "base_potential": "4",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Amaura"],
+  "image": "Grant_1.png",
+  "sync_pair_story": ["A Day with Grant"]
 }

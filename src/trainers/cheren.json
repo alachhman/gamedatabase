@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
+  "name": "Cheren",
+  "info": "A talented Trainer who is both a Gym Leader and a teacher in the Unova region, he is committed to fulfilling both roles well - even though he's just starting out.",
+  "base_potential": "5",
   "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "pokemon_list": ["Stoutland"],
+  "image": "Cheren_4.png",
+  "sync_pair_story": ["A Day with Cheren"]
 }

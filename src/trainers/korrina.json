@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Korrina",
+  "info": "A lively Gym Leader who speeds around on roller skates, she is known as the Mega Evolution successor in her native Kalos.",
+  "base_potential": "3",
+  "recruit_method": "Story Progression",
+  "pokemon_list": ["Lucario,Mega Lucario"],
+  "image": "Korrina.png",
+  "sync_pair_story": ["A Day with Korrina"]
 }

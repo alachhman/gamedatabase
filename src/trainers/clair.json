@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Clair",
+  "info": "She is a proud, confident Gym Leader who uses Dragon-type Pokémon. Her cousin Lance is also a Dragon-type Pokémon user.",
+  "base_potential": "4",
+  "recruit_method": "Story Progression",
+  "pokemon_list": ["Kingdra"],
+  "image": "Clair_1.png",
+  "sync_pair_story": ["A Day with Clair"]
 }

@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Winona",
+  "info": "This Gym Leader loves bird Pokémon more than anything. She has passionate fans in the Fortree City Gym thanks to her graceful appearance.",
+  "base_potential": "3",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Pelipper"],
+  "image": "Winona_1.png",
+  "sync_pair_story": ["A Day with Winona"]
 }

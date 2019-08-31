@@ -1,10 +1,9 @@
 {
-  "name": "",
-  "info": "",
-  "base_potential": ,
-  "recruit_method": "",
-  "pokemon_list": [""],
-  "image": "",
-  "icon": "",
-  "sync_pair_story": ""
+  "name": "Shauntal",
+  "info": "While she is one of the Unova Pokémon League's Elite Four, she is also a novelist who sometimes uses Trainers who challenge her as material for her books.",
+  "base_potential": "4",
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": ["Chandelure"],
+  "image": "Shauntal_1.png",
+  "sync_pair_story": ["A Day with Shauntal"]
 }
