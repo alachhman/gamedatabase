@@ -62,6 +62,7 @@ var json =
 
 var dummy = document.createElement("input");
 dummy.value = json;
+
 document.querySelector("body").appendChild(dummy);
 dummy.select();
 document.execCommand("copy");
