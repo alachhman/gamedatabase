@@ -2,7 +2,7 @@
   "name": "Agatha",
   "info": "<p>A strong-willed veteran with a penchant for battling, this member of the Elite Four tries to wear opponents down. She seems to have some history with Professor Oak.</p>",
   "base_potential": "4",
-  "recruit_method": "",
+  "recruit_method": "Sync Pair Scout",
   "pokemon_list": ["Gengar,Mega Gengar"],
   "image": "Agatha_1.png",
   "sync_pair_story": ["A Day with Agatha"]

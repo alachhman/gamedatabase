@@ -6,7 +6,12 @@ var image;
 var sync_pair_story = [];
 var pokemon_list = [];
 name = document.querySelector("#page-title").querySelector("h1").innerHTML;
-info = document.querySelector(".trainer-description").innerHTML;
+if (document.querySelector(".trainer-description").querySelector("p")) {
+  info = document.querySelector(".trainer-description").querySelector("p")
+    .innerHTML;
+} else {
+  info = document.querySelector(".trainer-description").innerHTML;
+}
 var base_potential_src = document
   .querySelector(".base-potential-image")
   .querySelector("img").src;
