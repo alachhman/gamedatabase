@@ -1,0 +1,24 @@
+{
+  "name": "gamedatabase",
+  "version": "1.0.0",
+  "description": "Pokemon Masters DB community database for game information, Sync Pairs, Trainers, Pokemon, Items, anything else to feed the DB.",
+  "main": "createSingleDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokemonMastersDB/gamedatabase.git"
+  },
+  "author": "Juan Latorre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PokemonMastersDB/gamedatabase/issues"
+  },
+  "homepage": "https://github.com/PokemonMastersDB/gamedatabase#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "glob": "^7.1.4",
+    "jsonfile": "^5.0.0"
+  }
+}
