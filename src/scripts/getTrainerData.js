@@ -58,4 +58,8 @@ var json =
   '","sync_pair_story":"' +
   sync_pair_story +
   '"}';
-alert(json);
+
+json.select();
+json.setSelectionRange(0, 99999); /*For mobile devices*/
+
+document.execCommand("copy");
