@@ -20,11 +20,12 @@ if (base_potential_src.includes("5-star")) {
 var allTh = document.querySelectorAll("th");
 allTh.forEach(function(th) {
   if (th.innerHTML === "Recruit Method") {
-    if (th.nextSibling.innerHTML === undefined) {
+    if (th.nextElementSibling.innerHTML === "") {
       recruit_method = "";
     } else {
-      recruit_method = th.nextSibling.innerHTML;
+      recruit_method = th.nextElementSibling.querySelector("a").innerHTML;
     }
+    alert(recruit_method);
   }
 });
 image = document
