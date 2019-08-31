@@ -25,7 +25,6 @@ allTh.forEach(function(th) {
     } else {
       recruit_method = th.nextElementSibling.querySelector("a").innerHTML;
     }
-    alert(recruit_method);
   }
 });
 image = document
@@ -62,7 +61,6 @@ var json =
 
 var dummy = document.createElement("input");
 dummy.value = json;
-
 document.querySelector("body").appendChild(dummy);
 dummy.select();
 document.execCommand("copy");
