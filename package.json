@@ -4,6 +4,7 @@
   "description": "Pokemon Masters DB community database for game information, Sync Pairs, Trainers, Pokemon, Items, anything else to feed the DB.",
   "main": "createSingleDB.js",
   "scripts": {
+    "build": "node createSingleDB.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
