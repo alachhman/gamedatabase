@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Wild Charge","target":"An opponent","accuracy":"100","power":"125→150","type":"Electric","category":"Physical","cost":3,"description":"The user also takes 20% of the damage it dealt to the target.","skill_type":"Pokemon"}

@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"CRASH!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Drastically raises the user’s Attack. Raises the user’s Sp. Atk.","skill_type":"Trainer"}

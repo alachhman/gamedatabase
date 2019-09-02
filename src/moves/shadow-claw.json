@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Shadow Claw","target":"An opponent","accuracy":"100","power":"40→48","type":"Ghost","category":"Physical","cost":2,"description":"Critical hits land more easily.","skill_type":"Pokemon"}

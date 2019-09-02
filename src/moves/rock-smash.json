@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Rock Smash","target":"An opponent","accuracy":"100","power":"46→55","type":"Fighting","category":"Physical","cost":2,"description":"Has a good chance of lowering the target’s Defense.","skill_type":"Pokemon"}

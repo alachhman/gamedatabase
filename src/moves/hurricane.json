@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Hurricane","target":"An opponent","accuracy":"70","power":"126→151","type":"Flying","category":"Special","cost":3,"description":"Never misses when the weather is rainy. Has a moderate chance of leaving the target confused.","skill_type":"Pokemon"}

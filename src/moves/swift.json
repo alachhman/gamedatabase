@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Swift","target":"All opponents","accuracy":"0","power":"57→68","type":"Normal","category":"Special","cost":2,"description":"Never misses.","skill_type":"Pokemon"}

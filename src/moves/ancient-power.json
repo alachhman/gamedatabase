@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Ancient Power","target":"An opponent","accuracy":"100","power":"47→56","type":"Rock","category":"Special","cost":2,"description":"Has a very small chance of raising the user’s Attack, Defense, Speed, Sp. Atk, and Sp. Def.","skill_type":"Pokemon"}

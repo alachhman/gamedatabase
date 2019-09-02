@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Unbreakable Bonds!","target":"All allies","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"The lower the user’s HP is, the more this move raises the move gauges and Attack of all allied sync pairs.","skill_type":"Trainer"}

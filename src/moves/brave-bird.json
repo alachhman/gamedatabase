@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Brave Bird","target":"An opponent","accuracy":"100","power":"134→160","type":"Flying","category":"Physical","cost":3,"description":"The user also takes 25% of the damage it dealt to the target.","skill_type":"Pokemon"}

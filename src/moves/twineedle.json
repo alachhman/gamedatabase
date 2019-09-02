@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Twineedle","target":"An opponent","accuracy":"100","power":"20→24","type":"Bug","category":"Physical","cost":2,"description":"Attacks twice in a row. Has a small chance of leaving the target poisoned.","skill_type":"Pokemon"}

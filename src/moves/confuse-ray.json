@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Confuse Ray","target":"An opponent","accuracy":"100","power":"0→0","type":"Ghost","category":"Status%20Effect","cost":2,"description":"Leaves the target confused.","skill_type":"Pokemon"}

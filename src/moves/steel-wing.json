@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Steel Wing","target":"An opponent","accuracy":"90","power":"55→66","type":"Steel","category":"Physical","cost":2,"description":"Has a very small chance of raising the user’s Defense.","skill_type":"Pokemon"}

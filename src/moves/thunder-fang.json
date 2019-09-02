@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Thunder Fang","target":"An opponent","accuracy":"95","power":"47→56","type":"Electric","category":"Physical","cost":2,"description":"Has a very small chance of making the target flinch or leaving the target paralyzed.","skill_type":"Pokemon"}

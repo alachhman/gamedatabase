@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"We’re Standing Strong!","target":"All allies","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"1","description":"Blocks status conditions on the allied field of play. Removes all status conditions from all allied sync pairs.","skill_type":"Trainer"}

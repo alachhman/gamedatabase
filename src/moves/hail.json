@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Hail","target":"Entire field","accuracy":"0","power":"0→0","type":"Ice","category":"Status%20Effect","cost":2,"description":"Causes a hailstorm.","skill_type":"Pokemon"}

@@ -1,11 +1,11 @@
 {
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
+  "name": "Back Off!",
+  "target": "Opponents' side",
+  "accuracy": "0",
+  "power": "0→0",
   "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Disrupts the unity gauge on the opponents’ field of play.",
+  "skill_type": "Trainer"
 }

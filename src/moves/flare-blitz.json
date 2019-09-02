@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Flare Blitz","target":"An opponent","accuracy":"100","power":"123→147","type":"Fire","category":"Physical","cost":3,"description":"Unfreezes the user. The user also takes 25% of the damage it dealt to the target. Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}

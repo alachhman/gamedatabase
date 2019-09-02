@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"It’s All about Focus!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Uses a maximum of three of the user’s move gauge. Based on the amount used, this move raises the user’s Attack and Sp. Def to a maximum of four.","skill_type":"Trainer"}

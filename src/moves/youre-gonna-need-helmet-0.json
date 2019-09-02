@@ -1,0 +1,11 @@
+{
+  "name": "You’re Gonna Need a Helmet!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Increases the user’s move gauge by three. Makes the user’s next attack a sure hit.",
+  "skill_type": "Trainer"
+}

@@ -1,11 +1,1 @@
-{
-  "name": "",
-  "target": "",
-  "accuracy": 0,
-  "power": 0,
-  "type": "",
-  "category": "",
-  "effect_tag": "",
-  "cost": 0,
-  "description": ""
-}
+{"name":"Rock Slide","target":"All opponents","accuracy":"90","power":"105→126","type":"Rock","category":"Physical","cost":3,"description":"Has a moderate chance of making the target flinch.","skill_type":"Pokemon"}
