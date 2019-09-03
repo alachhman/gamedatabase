@@ -4,7 +4,10 @@ var image;
 var description;
 
 name = document.querySelector("#page-title").querySelector("h1").innerHTML;
-filename = name.toLowerCase().replace(/ /g, "-");
+filename = name
+  .toLowerCase()
+  .replace(/ /g, "-")
+  .replace(/★/g, "");
 
 image = document
   .querySelector(".item-rarity-icon")
