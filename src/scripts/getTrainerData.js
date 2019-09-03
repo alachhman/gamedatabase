@@ -50,32 +50,26 @@ pokemon_trainer_node_pokemon_title.forEach(function(node) {
   pokemon_list.push(node.innerHTML.split("amp; ").pop());
 });
 
-image = document.querySelector(".trainer-top-image").querySelector("a").href;
+image = document
+  .querySelector(".trainer-top-image")
+  .querySelector("a")
+  .href.split("/")
+  .pop()
+  .split(".")[0];
 
-fetch(image)
-  .then(response => response.blob())
-  .then(blob => {
-    var reader = new FileReader();
-    reader.readAsDataURL(blob);
-    reader.onloadend = () => {
-      var base64data = reader.result;
-
-      var json = {
-        name: name,
-        info: info,
-        base_potential: base_potential,
-        recruit_method: recruit_method,
-        pokemon_list: pokemon_list,
-        image: base64data,
-        sync_pair_story: sync_pair_story
-      };
-      var dataStr =
-        "data:text/json;charset=utf-8," +
-        encodeURIComponent(JSON.stringify(json));
-      var dummyAnchor = document.createElement("a");
-      document.querySelector("body").appendChild(dummyAnchor);
-      dummyAnchor.setAttribute("href", dataStr);
-      dummyAnchor.setAttribute("download", filename + ".json");
-      dummyAnchor.click();
-    };
-  });
+var json = {
+  name: name,
+  info: info,
+  base_potential: base_potential,
+  recruit_method: recruit_method,
+  pokemon_list: pokemon_list,
+  image: image,
+  sync_pair_story: sync_pair_story
+};
+var dataStr =
+  "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(json));
+var dummyAnchor = document.createElement("a");
+document.querySelector("body").appendChild(dummyAnchor);
+dummyAnchor.setAttribute("href", dataStr);
+dummyAnchor.setAttribute("download", filename + ".json");
+dummyAnchor.click();
