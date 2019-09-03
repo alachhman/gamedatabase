@@ -1,9 +1,0 @@
-{
-  "name": "Viola",
-  "info": "A well-traveled camerawoman who is also a Bug-type Gym Leader, she often goes out with her older sister, Alexa.",
-  "base_potential": "4",
-  "recruit_method": "",
-  "pokemon_list": ["Masquerain,Surskit"],
-  "image": "Viola_1.png",
-  "sync_pair_story": ["A Day with Viola,Surskit’s Evolution"]
-}

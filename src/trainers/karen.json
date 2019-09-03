@@ -1,9 +1,0 @@
-{
-  "name": "Karen",
-  "info": "Beneath her calm, cerebral exterior, a passion for Pokémon lurks in this Elite Four member's heart. She likes wild and tough Dark-type Pokémon.",
-  "base_potential": "5",
-  "recruit_method": "Sync Pair Scout",
-  "pokemon_list": ["Houndoom,Mega Houndoom"],
-  "image": "Karen_1.png",
-  "sync_pair_story": ["A Day with Karen"]
-}

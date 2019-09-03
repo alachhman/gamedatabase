@@ -1,9 +1,0 @@
-{
-  "name": "Player",
-  "info": "This Trainer class is for new Trainers who are ready to take their important first steps toward becoming a strong Trainer on a new adventure with their Pokémon.",
-  "base_potential": "3",
-  "recruit_method": "Starting Trainer",
-  "pokemon_list": ["Pikachu"],
-  "image": "",
-  "sync_pair_story": [""]
-}
