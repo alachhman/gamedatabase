@@ -1,1 +1,1 @@
-{"name":"Ariados","type1":"Poison","type2":"","weakness":"Fire","role":"Tech","image":"pm0168_00_ariados_256.ktx.png","stats":{"atk":172,"bulk":401,"def":133,"dex":15,"hp":387,"spatk":100,"spdef":128,"spd":189}}
+{"name":"Ariados","type1":"Poison","type2":"","weakness":"Fire","role":"Tech","image":"pm0168_00_ariados_256.ktx.png","stats":{"base":{"attack":11,"defense":12,"hp":95,"speed":13,"sp_atk":9,"sp_def":11},"max":{"attack":172,"bulk":401,"defense":133,"hp":387,"speed":189,"sp_atk":100,"sp_def":128}}}

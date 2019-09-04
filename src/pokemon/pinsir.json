@@ -1,1 +1,1 @@
-{"name":"Pinsir","type1":"Bug","type2":"","weakness":"Flying","role":"Strike (Physical)","image":"pm0127_00_kailios_256.ktx.png","stats":{"atk":305,"bulk":409,"def":118,"dex":28,"hp":477,"spatk":71,"spdef":118,"spd":251}}
+{"name":"Pinsir","type1":"Bug","type2":"","weakness":"Flying","role":"Strike (Physical)","image":"pm0127_00_kailios_256.ktx.png","stats":{"base":{"attack":21,"defense":10,"hp":87,"speed":15,"sp_atk":6,"sp_def":10},"max":{"attack":305,"bulk":409,"defense":118,"hp":477,"speed":251,"sp_atk":71,"sp_def":118}}}

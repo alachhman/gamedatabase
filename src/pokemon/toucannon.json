@@ -1,1 +1,1 @@
-{"name":"Toucannon","type1":"Flying","type2":"","weakness":"Ice","role":"Strike (Physical)","image":"pm0809_00_kuchibashi3_256.ktx.png","stats":{"atk":334,"bulk":432,"def":136,"dex":59,"hp":447,"spatk":123,"spdef":134,"spd":203}}
+{"name":"Toucannon","type1":"Flying","type2":"","weakness":"Ice","role":"Strike (Physical)","image":"pm0809_00_kuchibashi3_256.ktx.png","stats":{"base":{"attack":22,"defense":12,"hp":95,"speed":14,"sp_atk":10,"sp_def":10},"max":{"attack":334,"bulk":432,"defense":136,"hp":447,"speed":203,"sp_atk":123,"sp_def":134}}}

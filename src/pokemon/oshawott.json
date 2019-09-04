@@ -1,1 +1,1 @@
-{"name":"Oshawott","type1":"Water","type2":"","weakness":"Electric","role":"Support","image":"pm0501_00_mijumaru_256.ktx.png","stats":{"atk":197,"bulk":536,"def":179,"dex":0,"hp":490,"spatk":130,"spdef":179,"spd":202}}
+{"name":"Oshawott","type1":"Water","type2":"","weakness":"Electric","role":"Support","image":"pm0501_00_mijumaru_256.ktx.png","stats":{"base":{"attack":13,"defense":13,"hp":117,"speed":17,"sp_atk":10,"sp_def":13},"max":{"attack":197,"bulk":536,"defense":179,"hp":490,"speed":202,"sp_atk":130,"sp_def":179}}}

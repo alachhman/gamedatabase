@@ -1,1 +1,1 @@
-{"name":"Chandelure","type1":"Ghost","type2":"","weakness":"Rock","role":"Strike (Special)","image":"pm0609_00_chandela_256.ktx.png","stats":{"atk":96,"bulk":354,"def":88,"dex":46,"hp":392,"spatk":298,"spdef":124,"spd":187}}
+{"name":"Chandelure","type1":"Ghost","type2":"","weakness":"Rock","role":"Strike (Special)","image":"pm0609_00_chandela_256.ktx.png","stats":{"base":{"attack":4,"defense":8,"hp":82,"speed":14,"sp_atk":18,"sp_def":11},"max":{"attack":96,"bulk":354,"defense":88,"hp":392,"speed":187,"sp_atk":298,"sp_def":124}}}

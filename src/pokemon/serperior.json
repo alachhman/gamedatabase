@@ -1,1 +1,1 @@
-{"name":"Serperior","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0497_00_jalorda_256.ktx.png","stats":{"atk":79,"bulk":612,"def":172,"dex":39,"hp":595,"spatk":104,"spdef":224,"spd":158}}
+{"name":"Serperior","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0497_00_jalorda_256.ktx.png","stats":{"base":{"attack":10,"defense":19,"hp":120,"speed":17,"sp_atk":14,"sp_def":21},"max":{"attack":79,"bulk":612,"defense":172,"hp":595,"speed":158,"sp_atk":104,"sp_def":224}}}

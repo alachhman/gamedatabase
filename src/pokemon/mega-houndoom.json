@@ -1,1 +1,1 @@
-{"name":"Mega Houndoom","type1":"Dark","type2":"","weakness":"Fighting","role":"Strike (Special)","image":"pm0229_51_megahellgar_256.ktx.png","stats":{"atk":268,"bulk":463,"def":155,"dex":17,"hp":460,"spatk":336,"spdef":155,"spd":345}}
+{"name":"Mega Houndoom","type1":"Dark","type2":"","weakness":"Fighting","role":"Strike (Special)","image":"pm0229_51_megahellgar_256.ktx.png","stats":{"base":{"attack":18,"defense":9,"hp":85,"speed":22,"sp_atk":22,"sp_def":9},"max":{"attack":268,"bulk":463,"defense":155,"hp":460,"speed":345,"sp_atk":336,"sp_def":155}}}

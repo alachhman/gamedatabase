@@ -1,1 +1,1 @@
-{"name":"Xatu","type1":"Flying","type2":"Psychic","weakness":"Electric","role":"Tech","image":"pm0178_01_natio_256.ktx.png","stats":{"atk":151,"bulk":483,"def":168,"dex":16,"hp":405,"spatk":201,"spdef":168,"spd":304}}
+{"name":"Xatu","type1":"Flying","type2":"Psychic","weakness":"Electric","role":"Tech","image":"pm0178_01_natio_256.ktx.png","stats":{"base":{"attack":11,"defense":11,"hp":95,"speed":20,"sp_atk":13,"sp_def":11},"max":{"attack":151,"bulk":483,"defense":168,"hp":405,"speed":304,"sp_atk":201,"sp_def":168}}}

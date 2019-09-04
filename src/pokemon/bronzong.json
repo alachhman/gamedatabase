@@ -1,1 +1,1 @@
-{"name":"Bronzong","type1":"Psychic","type2":"Steel","weakness":"Fire","role":"Tech","image":"pm0437_00_dohtakun_256.ktx.png","stats":{"atk":200,"bulk":509,"def":187,"dex":36,"hp":379,"spatk":198,"spdef":185,"spd":152}}
+{"name":"Bronzong","type1":"Psychic","type2":"Steel","weakness":"Fire","role":"Tech","image":"pm0437_00_dohtakun_256.ktx.png","stats":{"base":{"attack":13,"defense":14,"hp":107,"speed":12,"sp_atk":11,"sp_def":12},"max":{"attack":200,"bulk":509,"defense":187,"hp":379,"speed":152,"sp_atk":198,"sp_def":185}}}

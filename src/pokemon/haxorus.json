@@ -1,1 +1,1 @@
-{"name":"Haxorus","type1":"Dragon","type2":"","weakness":"Ice","role":"Strike (Physical)","image":"pm0612_00_ononokus_256.ktx.png","stats":{"atk":213,"bulk":322,"def":110,"dex":43,"hp":355,"spatk":53,"spdef":83,"spd":134}}
+{"name":"Haxorus","type1":"Dragon","type2":"","weakness":"Ice","role":"Strike (Physical)","image":"pm0612_00_ononokus_256.ktx.png","stats":{"base":{"attack":18,"defense":6,"hp":55,"speed":9,"sp_atk":3,"sp_def":5},"max":{"attack":213,"bulk":322,"defense":110,"hp":355,"speed":134,"sp_atk":53,"sp_def":83}}}

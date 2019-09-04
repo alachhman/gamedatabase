@@ -1,1 +1,27 @@
-{"name":"Tyranitar","type1":"Rock","type2":"","weakness":"Fighting","role":"Strike (Physical)","image":"pm0248_00_bangiras_256.ktx.png","stats":{"atk":207,"bulk":361,"def":143,"dex":2,"hp":419,"spatk":101,"spdef":66,"spd":111}}
+{
+  "name": "Tyranitar",
+  "type1": "Rock",
+  "type2": "",
+  "weakness": "Fighting",
+  "role": "Strike (Physical)",
+  "image": "pm0248_00_bangiras_256.ktx.png",
+  "stats": {
+    "base": {
+      "attack": 11,
+      "defense": 6,
+      "hp": 67,
+      "speed": 7,
+      "sp_atk": 10,
+      "sp_def": 4
+    },
+    "max": {
+      "attack": 207,
+      "bulk": 361,
+      "defense": 143,
+      "hp": 419,
+      "speed": 111,
+      "sp_atk": 101,
+      "sp_def": 66
+    }
+  }
+}

@@ -1,1 +1,1 @@
-{"name":"Snivy","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0495_00_tsutarja_256.ktx.png","stats":{"atk":74,"bulk":531,"def":162,"dex":39,"hp":512,"spatk":96,"spdef":183,"spd":148}}
+{"name":"Snivy","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0495_00_tsutarja_256.ktx.png","stats":{"base":{"attack":5,"defense":9,"hp":82,"speed":7,"sp_atk":6,"sp_def":9},"max":{"attack":74,"bulk":531,"defense":162,"hp":512,"speed":148,"sp_atk":96,"sp_def":183}}}

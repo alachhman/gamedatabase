@@ -1,1 +1,1 @@
-{"name":"Persian","type1":"Dark","type2":"","weakness":"Bug","role":"Tech","image":"pm0053_61_apersian_256.ktx.png","stats":{"atk":184,"bulk":420,"def":153,"dex":0,"hp":400,"spatk":105,"spdef":122,"spd":271}}
+{"name":"Persian","type1":"Dark","type2":"","weakness":"Bug","role":"Tech","image":"pm0053_61_apersian_256.ktx.png","stats":{"base":{"attack":7,"defense":8,"hp":80,"speed":11,"sp_atk":6,"sp_def":7},"max":{"attack":184,"bulk":420,"defense":153,"hp":400,"speed":271,"sp_atk":105,"sp_def":122}}}

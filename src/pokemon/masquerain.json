@@ -1,1 +1,1 @@
-{"name":"Masquerain","type1":"Bug","type2":"","weakness":"Rock","role":"Tech","image":"pm0284_00_amemoth_256.ktx.png","stats":{"atk":108,"bulk":502,"def":163,"dex":0,"hp":454,"spatk":191,"spdef":174,"spd":223}}
+{"name":"Masquerain","type1":"Bug","type2":"","weakness":"Rock","role":"Tech","image":"pm0284_00_amemoth_256.ktx.png","stats":{"base":{"attack":9,"defense":13,"hp":95,"speed":15,"sp_atk":14,"sp_def":12},"max":{"attack":108,"bulk":502,"defense":163,"hp":454,"speed":223,"sp_atk":191,"sp_def":174}}}

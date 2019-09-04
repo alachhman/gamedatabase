@@ -1,1 +1,1 @@
-{"name":"Aegislash (Blade Forme)","type1":"Steel","type2":"","weakness":"Fire","role":"Tech","image":"pm0746_12_sword3_256.ktx.png","stats":{"atk":219,"bulk":279,"def":55,"dex":53,"hp":467,"spatk":219,"spdef":55,"spd":221}}
+{"name":"Aegislash (Blade Forme)","type1":"Steel","type2":"","weakness":"Fire","role":"Tech","image":"pm0746_12_sword3_256.ktx.png","stats":{"base":{"attack":24,"defense":4,"hp":117,"speed":15,"sp_atk":24,"sp_def":4},"max":{"attack":219,"bulk":279,"defense":55,"hp":467,"speed":221,"sp_atk":219,"sp_def":55}}}

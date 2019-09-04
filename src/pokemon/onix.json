@@ -1,1 +1,1 @@
-{"name":"Onix","type1":"Rock","type2":"","weakness":"Grass","role":"Tech","image":"pm0095_00_iwark_256.ktx.png","stats":{"atk":161,"bulk":428,"def":144,"dex":2,"hp":465,"spatk":52,"spdef":115,"spd":194}}
+{"name":"Onix","type1":"Rock","type2":"","weakness":"Grass","role":"Tech","image":"pm0095_00_iwark_256.ktx.png","stats":{"base":{"attack":7,"defense":8,"hp":80,"speed":10,"sp_atk":6,"sp_def":7},"max":{"attack":161,"bulk":428,"defense":144,"hp":465,"speed":194,"sp_atk":52,"sp_def":115}}}

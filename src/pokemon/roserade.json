@@ -1,1 +1,1 @@
-{"name":"Roserade","type1":"Grass","type2":"","weakness":"Flying","role":"Strike (Special)","image":"pm0407_01_roserade_256.ktx.png","stats":{"atk":102,"bulk":387,"def":84,"dex":31,"hp":354,"spatk":304,"spdef":175,"spd":252}}
+{"name":"Roserade","type1":"Grass","type2":"","weakness":"Flying","role":"Strike (Special)","image":"pm0407_01_roserade_256.ktx.png","stats":{"base":{"attack":5,"defense":8,"hp":72,"speed":16,"sp_atk":20,"sp_def":14},"max":{"attack":102,"bulk":387,"defense":84,"hp":354,"speed":252,"sp_atk":304,"sp_def":175}}}

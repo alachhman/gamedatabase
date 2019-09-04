@@ -1,1 +1,1 @@
-{"name":"Bayleef","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pm0153_00_bayleaf_256.ktx.png","stats":{"atk":115,"bulk":500,"def":107,"dex":0,"hp":695,"spatk":187,"spdef":141,"spd":151}}
+{"name":"Bayleef","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pm0153_00_bayleaf_256.ktx.png","stats":{"base":{"attack":13,"defense":21,"hp":155,"speed":14,"sp_atk":16,"sp_def":21},"max":{"attack":115,"bulk":500,"defense":107,"hp":695,"speed":151,"sp_atk":187,"sp_def":141}}}

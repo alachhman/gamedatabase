@@ -1,1 +1,1 @@
-{"name":"Meditite","type1":"Fighting","type2":"","weakness":"Fairy","role":"Support","image":"pm0307_01_asanan_256.ktx.png","stats":{"atk":102,"bulk":436,"def":145,"dex":32,"hp":402,"spatk":95,"spdef":145,"spd":186}}
+{"name":"Meditite","type1":"Fighting","type2":"","weakness":"Fairy","role":"Support","image":"pm0307_01_asanan_256.ktx.png","stats":{"base":{"attack":16,"defense":13,"hp":100,"speed":11,"sp_atk":8,"sp_def":13},"max":{"attack":102,"bulk":436,"defense":145,"hp":402,"speed":186,"sp_atk":95,"sp_def":145}}}

@@ -1,1 +1,1 @@
-{"name":"Crobat","type1":"Poison","type2":"","weakness":"Electric","role":"Tech","image":"pm0169_00_crobat_256.ktx.png","stats":{"atk":237,"bulk":421,"def":122,"dex":0,"hp":402,"spatk":237,"spdef":153,"spd":322}}
+{"name":"Crobat","type1":"Poison","type2":"","weakness":"Electric","role":"Tech","image":"pm0169_00_crobat_256.ktx.png","stats":{"base":{"attack":7,"defense":7,"hp":70,"speed":12,"sp_atk":7,"sp_def":8},"max":{"attack":237,"bulk":421,"defense":122,"hp":402,"speed":322,"sp_atk":237,"sp_def":153}}}

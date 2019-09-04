@@ -1,1 +1,1 @@
-{"name":"Cranidos","type1":"Rock","type2":"","weakness":"Water","role":"Strike (Physical)","image":"pm0408_00_zugaidos_256.ktx.png","stats":{"atk":257,"bulk":397,"def":80,"dex":30,"hp":655,"spatk":80,"spdef":79,"spd":157}}
+{"name":"Cranidos","type1":"Rock","type2":"","weakness":"Water","role":"Strike (Physical)","image":"pm0408_00_zugaidos_256.ktx.png","stats":{"base":{"attack":21,"defense":9,"hp":75,"speed":11,"sp_atk":4,"sp_def":8},"max":{"attack":257,"bulk":397,"defense":80,"hp":655,"speed":157,"sp_atk":80,"sp_def":79}}}

@@ -1,1 +1,1 @@
-{"name":"Totodile","type1":"Normal","type2":"Water","weakness":"Grass","role":"Strike (Physical)","image":"pm0158_00_waninoko_256.ktx.png","stats":{"atk":199,"bulk":393,"def":108,"dex":10,"hp":522,"spatk":90,"spdef":96,"spd":234}}
+{"name":"Totodile","type1":"Normal","type2":"Water","weakness":"Grass","role":"Strike (Physical)","image":"pm0158_00_waninoko_256.ktx.png","stats":{"base":{"attack":15,"defense":10,"hp":95,"speed":16,"sp_atk":5,"sp_def":10},"max":{"attack":199,"bulk":393,"defense":108,"hp":522,"speed":234,"sp_atk":90,"sp_def":96}}}

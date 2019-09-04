@@ -1,1 +1,1 @@
-{"name":"Stoutland","type1":"Normal","type2":"","weakness":"Fighting","role":"Support","image":"pm0508_00_mooland_256.ktx.png","stats":{"atk":179,"bulk":523,"def":183,"dex":0,"hp":572,"spatk":43,"spdef":132,"spd":203}}
+{"name":"Stoutland","type1":"Normal","type2":"","weakness":"Fighting","role":"Support","image":"pm0508_00_mooland_256.ktx.png","stats":{"base":{"attack":7,"defense":9,"hp":92,"speed":12,"sp_atk":5,"sp_def":8},"max":{"attack":179,"bulk":523,"defense":183,"hp":572,"speed":203,"sp_atk":43,"sp_def":132}}}

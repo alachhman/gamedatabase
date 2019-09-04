@@ -1,1 +1,1 @@
-{"name":"Raichu (Alola Form)","type1":"Electric","type2":"","weakness":"Ground","role":"Strike (Special)","image":"pm0026_61_araichu_256.ktx.png","stats":{"atk":74,"bulk":388,"def":120,"dex":54,"hp":352,"spatk":271,"spdef":140,"spd":208}}
+{"name":"Raichu (Alola Form)","type1":"Electric","type2":"","weakness":"Ground","role":"Strike (Special)","image":"pm0026_61_araichu_256.ktx.png","stats":{"base":{"attack":10,"defense":5,"hp":62,"speed":11,"sp_atk":13,"sp_def":8},"max":{"attack":74,"bulk":388,"defense":120,"hp":352,"speed":208,"sp_atk":271,"sp_def":140}}}

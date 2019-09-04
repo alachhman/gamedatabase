@@ -1,1 +1,1 @@
-{"name":"Pelipper","type1":"Flying","type2":"","weakness":"Electric","role":"Tech","image":"pm0279_00_pelipper_256.ktx.png","stats":{"atk":156,"bulk":397,"def":113,"dex":23,"hp":390,"spatk":156,"spdef":143,"spd":192}}
+{"name":"Pelipper","type1":"Flying","type2":"","weakness":"Electric","role":"Tech","image":"pm0279_00_pelipper_256.ktx.png","stats":{"base":{"attack":9,"defense":11,"hp":97,"speed":15,"sp_atk":9,"sp_def":11},"max":{"attack":156,"bulk":397,"defense":113,"hp":390,"speed":192,"sp_atk":156,"sp_def":143}}}

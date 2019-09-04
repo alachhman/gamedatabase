@@ -1,1 +1,1 @@
-{"name":"Aegislash (Shield Forme)","type1":"Steel","type2":"","weakness":"Fire","role":"Tech","image":"pm0746_11_sword3_256.ktx.png","stats":{"atk":73,"bulk":541,"def":186,"dex":53,"hp":467,"spatk":73,"spdef":186,"spd":221}}
+{"name":"Aegislash (Shield Forme)","type1":"Steel","type2":"","weakness":"Fire","role":"Tech","image":"pm0746_11_sword3_256.ktx.png","stats":{"base":{"attack":8,"defense":15,"hp":117,"speed":15,"sp_atk":8,"sp_def":15},"max":{"attack":73,"bulk":541,"defense":186,"hp":467,"speed":221,"sp_atk":73,"sp_def":186}}}

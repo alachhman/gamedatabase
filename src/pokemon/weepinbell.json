@@ -1,1 +1,1 @@
-{"name":"Weepinbell","type1":"Grass","type2":"","weakness":"Ice","role":"Tech","image":"pm0070_00_utsudon_256.ktx.png","stats":{"atk":173,"bulk":357,"def":102,"dex":50,"hp":395,"spatk":127,"spdef":112,"spd":192}}
+{"name":"Weepinbell","type1":"Grass","type2":"","weakness":"Ice","role":"Tech","image":"pm0070_00_utsudon_256.ktx.png","stats":{"base":{"attack":11,"defense":10,"hp":92,"speed":15,"sp_atk":10,"sp_def":11},"max":{"attack":173,"bulk":357,"defense":102,"hp":395,"speed":192,"sp_atk":127,"sp_def":112}}}

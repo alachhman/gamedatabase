@@ -1,1 +1,1 @@
-{"name":"Meganium","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pm0154_01_meganium_256.ktx.png","stats":{"atk":119,"bulk":533,"def":112,"dex":0,"hp":722,"spatk":193,"spdef":159,"spd":157}}
+{"name":"Meganium","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pm0154_01_meganium_256.ktx.png","stats":{"base":{"attack":17,"defense":26,"hp":177,"speed":20,"sp_atk":22,"sp_def":27},"max":{"attack":119,"bulk":533,"defense":112,"hp":722,"speed":157,"sp_atk":193,"sp_def":159}}}

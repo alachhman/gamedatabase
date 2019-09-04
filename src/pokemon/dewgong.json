@@ -1,1 +1,1 @@
-{"name":"Dewgong","type1":"Ice","type2":"","weakness":"Electric","role":"Strike (Special)","image":"pm0087_00_jugon_256.ktx.png","stats":{"atk":199,"bulk":364,"def":61,"dex":13,"hp":504,"spatk":210,"spdef":120,"spd":132}}
+{"name":"Dewgong","type1":"Ice","type2":"","weakness":"Electric","role":"Strike (Special)","image":"pm0087_00_jugon_256.ktx.png","stats":{"base":{"attack":15,"defense":11,"hp":85,"speed":11,"sp_atk":15,"sp_def":11},"max":{"attack":199,"bulk":364,"defense":61,"hp":504,"speed":132,"sp_atk":210,"sp_def":120}}}

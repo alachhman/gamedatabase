@@ -1,1 +1,1 @@
-{"name":"Dusclops","type1":"Normal","type2":"Ghost","weakness":"Dark","role":"Support","image":"pm0356_00_samayouru_256.ktx.png","stats":{"atk":181,"bulk":584,"def":197,"dex":26,"hp":477,"spatk":130,"spdef":214,"spd":148}}
+{"name":"Dusclops","type1":"Normal","type2":"Ghost","weakness":"Dark","role":"Support","image":"pm0356_00_samayouru_256.ktx.png","stats":{"base":{"attack":14,"defense":13,"hp":105,"speed":11,"sp_atk":10,"sp_def":14},"max":{"attack":181,"bulk":584,"defense":197,"hp":477,"speed":148,"sp_atk":130,"sp_def":214}}}

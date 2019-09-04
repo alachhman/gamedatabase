@@ -1,1 +1,1 @@
-{"name":"Mega Pidgeot","type1":"Flying","type2":"","weakness":"Rock","role":"Strike (Special)","image":"pm0018_51_megapigeot_256.ktx__0.png","stats":{"atk":118,"bulk":461,"def":146,"dex":0,"hp":465,"spatk":403,"spdef":146,"spd":322}}
+{"name":"Mega Pidgeot","type1":"Flying","type2":"","weakness":"Rock","role":"Strike (Special)","image":"pm0018_51_megapigeot_256.ktx__0.png","stats":{"base":{"attack":15,"defense":9,"hp":92,"speed":19,"sp_atk":25,"sp_def":9},"max":{"attack":118,"bulk":461,"defense":146,"hp":465,"speed":322,"sp_atk":403,"sp_def":146}}}

@@ -1,1 +1,1 @@
-{"name":"Slaking","type1":"Normal","type2":"","weakness":"Fighting","role":"Strike (Physical)","image":"pm0289_00_kekking_256.ktx.png","stats":{"atk":272,"bulk":381,"def":110,"dex":22,"hp":445,"spatk":31,"spdef":110,"spd":100}}
+{"name":"Slaking","type1":"Normal","type2":"","weakness":"Fighting","role":"Strike (Physical)","image":"pm0289_00_kekking_256.ktx.png","stats":{"base":{"attack":12,"defense":6,"hp":67,"speed":6,"sp_atk":2,"sp_def":6},"max":{"attack":272,"bulk":381,"defense":110,"hp":445,"speed":100,"sp_atk":31,"sp_def":110}}}

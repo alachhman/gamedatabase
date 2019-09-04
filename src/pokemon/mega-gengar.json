@@ -1,1 +1,1 @@
-{"name":"Mega Gengar","type1":"Ghost","type2":"","weakness":"Dark","role":"Tech","image":"pm0094_51_megagangar_256.ktx.png","stats":{"atk":119,"bulk":403,"def":102,"dex":9,"hp":417,"spatk":339,"spdef":150,"spd":337}}
+{"name":"Mega Gengar","type1":"Ghost","type2":"","weakness":"Dark","role":"Tech","image":"pm0094_51_megagangar_256.ktx.png","stats":{"base":{"attack":10,"defense":10,"hp":107,"speed":25,"sp_atk":18,"sp_def":13},"max":{"attack":119,"bulk":403,"defense":102,"hp":417,"speed":337,"sp_atk":339,"sp_def":150}}}

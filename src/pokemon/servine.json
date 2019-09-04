@@ -1,1 +1,1 @@
-{"name":"Servine","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0496_00_janovy_256.ktx.png","stats":{"atk":76,"bulk":564,"def":166,"dex":39,"hp":535,"spatk":99,"spdef":204,"spd":152}}
+{"name":"Servine","type1":"Grass","type2":"","weakness":"Flying","role":"Support","image":"pm0496_00_janovy_256.ktx.png","stats":{"base":{"attack":7,"defense":13,"hp":100,"speed":11,"sp_atk":9,"sp_def":14},"max":{"attack":76,"bulk":564,"defense":166,"hp":535,"speed":152,"sp_atk":99,"sp_def":204}}}

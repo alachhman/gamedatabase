@@ -1,1 +1,1 @@
-{"name":"Lycanroc (Midnight Form)","type1":"Rock","type2":"","weakness":"Grass","role":"Strike (Physical)","image":"pm0829_12_okami2night_256.ktx.png","stats":{"atk":357,"bulk":431,"def":130,"dex":57,"hp":472,"spatk":72,"spdef":130,"spd":216}}
+{"name":"Lycanroc (Midnight Form)","type1":"Rock","type2":"","weakness":"Grass","role":"Strike (Physical)","image":"pm0829_12_okami2night_256.ktx.png","stats":{"base":{"attack":25,"defense":10,"hp":97,"speed":15,"sp_atk":8,"sp_def":10},"max":{"attack":357,"bulk":431,"defense":130,"hp":472,"speed":216,"sp_atk":72,"sp_def":130}}}

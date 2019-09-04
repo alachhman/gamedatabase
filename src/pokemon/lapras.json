@@ -1,1 +1,1 @@
-{"name":"Lapras","type1":"Ice","type2":"","weakness":"Grass","role":"Tech","image":"pm0131_00_laplace_256.ktx.png","stats":{"atk":103,"bulk":504,"def":137,"dex":7,"hp":500,"spatk":188,"spdef":186,"spd":207}}
+{"name":"Lapras","type1":"Ice","type2":"","weakness":"Grass","role":"Tech","image":"pm0131_00_laplace_256.ktx.png","stats":{"base":{"attack":11,"defense":12,"hp":107,"speed":17,"sp_atk":15,"sp_def":13},"max":{"attack":103,"bulk":504,"defense":137,"hp":500,"speed":207,"sp_atk":188,"sp_def":186}}}

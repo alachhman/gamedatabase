@@ -1,1 +1,1 @@
-{"name":"Lunatone","type1":"Psychic","type2":"","weakness":"Bug","role":"Support","image":"pm0337_00_lunatone_256.ktx.png","stats":{"atk":95,"bulk":417,"def":99,"dex":25,"hp":519,"spatk":128,"spdef":130,"spd":112}}
+{"name":"Lunatone","type1":"Psychic","type2":"","weakness":"Bug","role":"Support","image":"pm0337_00_lunatone_256.ktx.png","stats":{"base":{"attack":8,"defense":12,"hp":112,"speed":11,"sp_atk":12,"sp_def":14},"max":{"attack":95,"bulk":417,"defense":99,"hp":519,"speed":112,"sp_atk":128,"sp_def":130}}}

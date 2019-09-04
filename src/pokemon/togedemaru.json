@@ -1,1 +1,1 @@
-{"name":"Togedemaru","type1":"Electric","type2":"","weakness":"Ground","role":"Tech","image":"pm0858_00_nijichu_256.ktx.png","stats":{"atk":184,"bulk":404,"def":117,"dex":55,"hp":422,"spatk":119,"spdef":134,"spd":303}}
+{"name":"Togedemaru","type1":"Electric","type2":"","weakness":"Ground","role":"Tech","image":"pm0858_00_nijichu_256.ktx.png","stats":{"base":{"attack":13,"defense":9,"hp":100,"speed":19,"sp_atk":10,"sp_def":9},"max":{"attack":184,"bulk":404,"defense":117,"hp":422,"speed":303,"sp_atk":119,"sp_def":134}}}

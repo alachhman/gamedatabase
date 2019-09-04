@@ -1,1 +1,1 @@
-{"name":"Voltorb","type1":"Electric","type2":"","weakness":"Ground","role":"Tech","image":"pm0100_00_biriridama_256.ktx.png","stats":{"atk":116,"bulk":364,"def":113,"dex":4,"hp":382,"spatk":156,"spdef":113,"spd":334}}
+{"name":"Voltorb","type1":"Electric","type2":"","weakness":"Ground","role":"Tech","image":"pm0100_00_biriridama_256.ktx.png","stats":{"base":{"attack":14,"defense":11,"hp":90,"speed":28,"sp_atk":10,"sp_def":11},"max":{"attack":116,"bulk":364,"defense":113,"hp":382,"speed":334,"sp_atk":156,"sp_def":113}}}

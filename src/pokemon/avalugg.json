@@ -1,1 +1,1 @@
-{"name":"Avalugg","type1":"Ice","type2":"","weakness":"Fire","role":"Strike (Physical)","image":"pm0751_00_ice3_256.ktx.png","stats":{"atk":254,"bulk":334,"def":100,"dex":51,"hp":419,"spatk":34,"spdef":82,"spd":84}}
+{"name":"Avalugg","type1":"Ice","type2":"","weakness":"Fire","role":"Strike (Physical)","image":"pm0751_00_ice3_256.ktx.png","stats":{"base":{"attack":17,"defense":10,"hp":90,"speed":9,"sp_atk":3,"sp_def":5},"max":{"attack":254,"bulk":334,"defense":100,"hp":419,"speed":84,"sp_atk":34,"sp_def":82}}}

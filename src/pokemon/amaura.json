@@ -1,1 +1,1 @@
-{"name":"Amaura","type1":"Rock","type2":"","weakness":"Steel","role":"Tech","image":"pm0739_00_aurora1_256.ktx.png","stats":{"atk":152,"bulk":444,"def":125,"dex":48,"hp":495,"spatk":87,"spdef":139,"spd":225}}
+{"name":"Amaura","type1":"Rock","type2":"","weakness":"Steel","role":"Tech","image":"pm0739_00_aurora1_256.ktx.png","stats":{"base":{"attack":12,"defense":12,"hp":102,"speed":19,"sp_atk":11,"sp_def":15},"max":{"attack":152,"bulk":444,"defense":125,"hp":495,"speed":225,"sp_atk":87,"sp_def":139}}}

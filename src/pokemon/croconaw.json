@@ -1,1 +1,1 @@
-{"name":"Croconaw","type1":"Water","type2":"Normal","weakness":"Grass","role":"Strike (Physical)","image":"pm0159_00_alligates_256.ktx.png","stats":{"atk":220,"bulk":405,"def":111,"dex":10,"hp":537,"spatk":95,"spdef":99,"spd":255}}
+{"name":"Croconaw","type1":"Water","type2":"Normal","weakness":"Grass","role":"Strike (Physical)","image":"pm0159_00_alligates_256.ktx.png","stats":{"base":{"attack":21,"defense":13,"hp":110,"speed":21,"sp_atk":10,"sp_def":13},"max":{"attack":220,"bulk":405,"defense":111,"hp":537,"speed":255,"sp_atk":95,"sp_def":99}}}

@@ -1,1 +1,11 @@
-{"name":"Absorb","target":"An opponent","accuracy":"100","power":"19→22","type":"Grass","category":"Special","cost":1,"description":"Restores the user’s HP based on the amount of damage dealt to the target.","skill_type":"Pokemon"}
+{
+  "name": "Absorb",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "19→22",
+  "type": "Grass",
+  "category": "Special",
+  "cost": 1,
+  "description": "Restores the user’s HP based on the amount of damage dealt to the target.",
+  "skill_type": "Pokemon"
+}

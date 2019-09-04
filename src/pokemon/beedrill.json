@@ -1,1 +1,1 @@
-{"name":"Beedrill","type1":"Bug","type2":"","weakness":"Rock","role":"Strike (Physical)","image":"pm0015_00_spear_256.ktx.png","stats":{"atk":270,"bulk":289,"def":70,"dex":11,"hp":370,"spatk":99,"spdef":85,"spd":255}}
+{"name":"Beedrill","type1":"Bug","type2":"","weakness":"Rock","role":"Strike (Physical)","image":"pm0015_00_spear_256.ktx.png","stats":{"base":{"attack":19,"defense":8,"hp":67,"speed":19,"sp_atk":8,"sp_def":8},"max":{"attack":270,"bulk":289,"defense":70,"hp":370,"speed":255,"sp_atk":99,"sp_def":85}}}

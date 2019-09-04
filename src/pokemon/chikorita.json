@@ -1,1 +1,1 @@
-{"name":"Chikorita","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pmoGSStq","stats":{"atk":113,"bulk":467,"def":104,"dex":0,"hp":635,"spatk":183,"spdef":133,"spd":148}}
+{"name":"Chikorita","type1":"Grass","type2":"","weakness":"Fire","role":"Support","image":"pmoGSStq","stats":{"base":{"attack":11,"defense":18,"hp":132,"speed":11,"sp_atk":12,"sp_def":17},"max":{"attack":113,"bulk":467,"defense":104,"hp":635,"speed":148,"sp_atk":183,"sp_def":133}}}

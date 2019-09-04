@@ -1,1 +1,1 @@
-{"name":"Ponyta","type1":"Fire","type2":"","weakness":"Rock","role":"Tech","image":"pm0077_00_ponyta_256.ktx.png","stats":{"atk":151,"bulk":419,"def":119,"dex":6,"hp":492,"spatk":119,"spdef":122,"spd":358}}
+{"name":"Ponyta","type1":"Fire","type2":"","weakness":"Rock","role":"Tech","image":"pm0077_00_ponyta_256.ktx.png","stats":{"base":{"attack":11,"defense":10,"hp":100,"speed":25,"sp_atk":10,"sp_def":13},"max":{"attack":151,"bulk":419,"defense":119,"hp":492,"speed":358,"sp_atk":119,"sp_def":122}}}

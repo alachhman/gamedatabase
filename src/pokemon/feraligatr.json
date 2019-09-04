@@ -1,1 +1,1 @@
-{"name":"Feraligatr","type1":"Water","type2":"Normal","weakness":"Grass","role":"Strike (Physical)","image":"pm0160_00_ordile_256.ktx.png","stats":{"atk":229,"bulk":422,"def":116,"dex":10,"hp":560,"spatk":104,"spdef":103,"spd":265}}
+{"name":"Feraligatr","type1":"Water","type2":"Normal","weakness":"Grass","role":"Strike (Physical)","image":"pm0160_00_ordile_256.ktx.png","stats":{"base":{"attack":28,"defense":18,"hp":132,"speed":30,"sp_atk":19,"sp_def":17},"max":{"attack":229,"bulk":422,"defense":116,"hp":560,"speed":265,"sp_atk":104,"sp_def":103}}}

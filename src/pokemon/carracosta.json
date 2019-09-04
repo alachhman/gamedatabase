@@ -1,1 +1,1 @@
-{"name":"Carracosta","type1":"Water","type2":"Rock","weakness":"Grass","role":"Support","image":"pm0565_00_abagoura_256.ktx.png","stats":{"atk":179,"bulk":368,"def":135,"dex":45,"hp":369,"spatk":79,"spdef":99,"spd":109}}
+{"name":"Carracosta","type1":"Water","type2":"Rock","weakness":"Grass","role":"Support","image":"pm0565_00_abagoura_256.ktx.png","stats":{"base":{"attack":17,"defense":14,"hp":115,"speed":8,"sp_atk":7,"sp_def":12},"max":{"attack":179,"bulk":368,"defense":135,"hp":369,"speed":109,"sp_atk":79,"sp_def":99}}}

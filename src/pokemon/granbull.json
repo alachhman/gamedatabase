@@ -1,1 +1,1 @@
-{"name":"Granbull","type1":"Fairy","type2":"","weakness":"Steel","role":"Tech","image":"pm0210_00_granbulu_256.ktx.png","stats":{"atk":178,"bulk":350,"def":112,"dex":56,"hp":419,"spatk":127,"spdef":86,"spd":159}}
+{"name":"Granbull","type1":"Fairy","type2":"","weakness":"Steel","role":"Tech","image":"pm0210_00_granbulu_256.ktx.png","stats":{"base":{"attack":17,"defense":11,"hp":90,"speed":13,"sp_atk":10,"sp_def":11},"max":{"attack":178,"bulk":350,"defense":112,"hp":419,"speed":159,"sp_atk":127,"sp_def":86}}}

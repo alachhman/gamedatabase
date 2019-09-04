@@ -1,1 +1,1 @@
-{"name":"Pikachu","type1":"Electric","type2":"","weakness":"Ground","role":"Strike (Special)","image":"pm0025_00_pikachu_256.ktx.png","stats":{"atk":194,"bulk":338,"def":83,"dex":1,"hp":399,"spatk":255,"spdef":110,"spd":210}}
+{"name":"Pikachu","type1":"Electric","type2":"","weakness":"Ground","role":"Strike (Special)","image":"pm0025_00_pikachu_256.ktx.png","stats":{"base":{"attack":10,"defense":5,"hp":62,"speed":9,"sp_atk":11,"sp_def":6},"max":{"attack":194,"bulk":338,"defense":83,"hp":399,"speed":210,"sp_atk":255,"sp_def":110}}}

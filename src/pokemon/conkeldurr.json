@@ -1,1 +1,1 @@
-{"name":"Conkeldurr","type1":"Fighting","type2":"","weakness":"Psychic","role":"Strike (Physical)","image":"pm0534_00_roubushin_256.ktx.png","stats":{"atk":254,"bulk":341,"def":110,"dex":47,"hp":449,"spatk":104,"spdef":68,"spd":109}}
+{"name":"Conkeldurr","type1":"Fighting","type2":"","weakness":"Psychic","role":"Strike (Physical)","image":"pm0534_00_roubushin_256.ktx.png","stats":{"base":{"attack":18,"defense":14,"hp":87,"speed":12,"sp_atk":12,"sp_def":8},"max":{"attack":254,"bulk":341,"defense":110,"hp":449,"speed":109,"sp_atk":104,"sp_def":68}}}

@@ -1,1 +1,1 @@
-{"name":"Swanna","type1":"Flying","type2":"","weakness":"Rock","role":"Support","image":"pm0581_00_swanna_256.ktx.png","stats":{"atk":158,"bulk":450,"def":134,"dex":41,"hp":502,"spatk":174,"spdef":134,"spd":177}}
+{"name":"Swanna","type1":"Flying","type2":"","weakness":"Rock","role":"Support","image":"pm0581_00_swanna_256.ktx.png","stats":{"base":{"attack":6,"defense":9,"hp":82,"speed":8,"sp_atk":6,"sp_def":9},"max":{"attack":158,"bulk":450,"defense":134,"hp":502,"speed":177,"sp_atk":174,"sp_def":134}}}

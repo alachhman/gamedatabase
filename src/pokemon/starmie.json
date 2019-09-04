@@ -1,1 +1,1 @@
-{"name":"Starmie","type1":"Water","type2":"","weakness":"Electric","role":"Support","image":"pm0121_00_starmie_256.ktx.png","stats":{"atk":97,"bulk":480,"def":151,"dex":3,"hp":462,"spatk":159,"spdef":161,"spd":177}}
+{"name":"Starmie","type1":"Water","type2":"","weakness":"Electric","role":"Support","image":"pm0121_00_starmie_256.ktx.png","stats":{"base":{"attack":5,"defense":10,"hp":82,"speed":8,"sp_atk":7,"sp_def":9},"max":{"attack":97,"bulk":480,"defense":151,"hp":462,"speed":177,"sp_atk":159,"sp_def":161}}}

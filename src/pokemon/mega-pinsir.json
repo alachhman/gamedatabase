@@ -1,1 +1,1 @@
-{"name":"Mega Pinsir","type1":"Bug","type2":"","weakness":"Flying","role":"Strike (Physical)","image":"pm0127_51_megakailios_256.ktx.png","stats":{"atk":365,"bulk":432,"def":141,"dex":28,"hp":477,"spatk":71,"spdef":118,"spd":251}}
+{"name":"Mega Pinsir","type1":"Bug","type2":"","weakness":"Flying","role":"Strike (Physical)","image":"pm0127_51_megakailios_256.ktx.png","stats":{"base":{"attack":25,"defense":12,"hp":87,"speed":15,"sp_atk":6,"sp_def":10},"max":{"attack":365,"bulk":432,"defense":141,"hp":477,"speed":251,"sp_atk":71,"sp_def":118}}}

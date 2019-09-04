@@ -1,1 +1,1 @@
-{"name":"Seel","type1":"Ice","type2":"","weakness":"Electric","role":"Strike (Special)","image":"pm0086_00_pawou_256.ktx.png","stats":{"atk":194,"bulk":347,"def":58,"dex":13,"hp":487,"spatk":194,"spdef":112,"spd":128}}
+{"name":"Seel","type1":"Ice","type2":"","weakness":"Electric","role":"Strike (Special)","image":"pm0086_00_pawou_256.ktx.png","stats":{"base":{"attack":10,"defense":8,"hp":67,"speed":7,"sp_atk":10,"sp_def":8},"max":{"attack":194,"bulk":347,"defense":58,"hp":487,"speed":128,"sp_atk":194,"sp_def":112}}}

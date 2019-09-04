@@ -1,1 +1,1 @@
-{"name":"Blissey","type1":"Normal","type2":"Fire","weakness":"Fighting","role":"Support","image":"pm0242_00_happinas_256.ktx.png","stats":{"atk":67,"bulk":424,"def":38,"dex":37,"hp":612,"spatk":143,"spdef":164,"spd":110}}
+{"name":"Blissey","type1":"Normal","type2":"Fire","weakness":"Fighting","role":"Support","image":"pm0242_00_happinas_256.ktx.png","stats":{"base":{"attack":5,"defense":8,"hp":137,"speed":9,"sp_atk":11,"sp_def":16},"max":{"attack":67,"bulk":424,"defense":38,"hp":612,"speed":110,"sp_atk":143,"sp_def":164}}}

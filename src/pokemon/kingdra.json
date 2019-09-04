@@ -1,1 +1,1 @@
-{"name":"Kingdra","type1":"Dragon","type2":"","weakness":"Dragon","role":"Strike (Special)","image":"pm0230_00_kingdra_256.ktx.png","stats":{"atk":204,"bulk":415,"def":121,"dex":14,"hp":475,"spatk":258,"spdef":122,"spd":202}}
+{"name":"Kingdra","type1":"Dragon","type2":"","weakness":"Dragon","role":"Strike (Special)","image":"pm0230_00_kingdra_256.ktx.png","stats":{"base":{"attack":8,"defense":5,"hp":70,"speed":10,"sp_atk":11,"sp_def":6},"max":{"attack":204,"bulk":415,"defense":121,"hp":475,"speed":202,"sp_atk":258,"sp_def":122}}}

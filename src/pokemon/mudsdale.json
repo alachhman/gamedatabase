@@ -1,1 +1,1 @@
-{"name":"Mudsdale","type1":"Ground","type2":"","weakness":"Grass","role":"Strike (Physical)","image":"pm0840_00_roba2_256.ktx.png","stats":{"atk":198,"bulk":358,"def":146,"dex":58,"hp":399,"spatk":192,"spdef":67,"spd":128}}
+{"name":"Mudsdale","type1":"Ground","type2":"","weakness":"Grass","role":"Strike (Physical)","image":"pm0840_00_roba2_256.ktx.png","stats":{"base":{"attack":13,"defense":9,"hp":62,"speed":7,"sp_atk":8,"sp_def":5},"max":{"attack":198,"bulk":358,"defense":146,"hp":399,"speed":128,"sp_atk":192,"sp_def":67}}}

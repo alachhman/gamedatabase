@@ -1,1 +1,1 @@
-{"name":"Salamence","type1":"Dragon","type2":"","weakness":"Fairy","role":"Support","image":"pm0373_00_bohmander_256.ktx.png","stats":{"atk":218,"bulk":471,"def":159,"dex":27,"hp":425,"spatk":214,"spdef":158,"spd":157}}
+{"name":"Salamence","type1":"Dragon","type2":"","weakness":"Fairy","role":"Support","image":"pm0373_00_bohmander_256.ktx.png","stats":{"base":{"attack":14,"defense":14,"hp":102,"speed":12,"sp_atk":10,"sp_def":13},"max":{"attack":218,"bulk":471,"defense":159,"hp":425,"speed":157,"sp_atk":214,"sp_def":158}}}

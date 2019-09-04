@@ -1,1 +1,1 @@
-{"name":"Nosepass","type1":"Rock","type2":"","weakness":"Fighting","role":"Support","image":"pm0299_00_nosepass_256.ktx.png","stats":{"atk":96,"bulk":428,"def":160,"dex":19,"hp":299,"spatk":101,"spdef":160,"spd":85}}
+{"name":"Nosepass","type1":"Rock","type2":"","weakness":"Fighting","role":"Support","image":"pm0299_00_nosepass_256.ktx.png","stats":{"base":{"attack":9,"defense":14,"hp":110,"speed":8,"sp_atk":14,"sp_def":14},"max":{"attack":96,"bulk":428,"defense":160,"hp":299,"speed":85,"sp_atk":101,"sp_def":160}}}

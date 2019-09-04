@@ -1,1 +1,1 @@
-{"name":"Clawitzer","type1":"Water","type2":"Fighting","weakness":"Electric","role":"Strike (Special)","image":"pm0757_00_shrimp2_256.ktx.png","stats":{"atk":118,"bulk":429,"def":134,"dex":52,"hp":444,"spatk":286,"spdef":134,"spd":205}}
+{"name":"Clawitzer","type1":"Water","type2":"Fighting","weakness":"Electric","role":"Strike (Special)","image":"pm0757_00_shrimp2_256.ktx.png","stats":{"base":{"attack":10,"defense":10,"hp":92,"speed":16,"sp_atk":22,"sp_def":10},"max":{"attack":118,"bulk":429,"defense":134,"hp":444,"speed":205,"sp_atk":286,"sp_def":134}}}

@@ -1,1 +1,1 @@
-{"name":"Floatzel","type1":"Water","type2":"","weakness":"Grass","role":"Tech","image":"pm0419_00_floazel_256.ktx.png","stats":{"atk":182,"bulk":378,"def":116,"dex":33,"hp":375,"spatk":182,"spdef":126,"spd":316}}
+{"name":"Floatzel","type1":"Water","type2":"","weakness":"Grass","role":"Tech","image":"pm0419_00_floazel_256.ktx.png","stats":{"base":{"attack":21,"defense":10,"hp":72,"speed":20,"sp_atk":21,"sp_def":10},"max":{"attack":182,"bulk":378,"defense":116,"hp":375,"speed":316,"sp_atk":182,"sp_def":126}}}

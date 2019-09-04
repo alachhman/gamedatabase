@@ -1,1 +1,1 @@
-{"name":"Abomasnow","type1":"Ice","type2":"","weakness":"Fire","role":"Tech","image":"pm0460_01_yukinooh_256.ktx.png","stats":{"atk":182,"bulk":366,"def":103,"dex":34,"hp":437,"spatk":127,"spdef":105,"spd":192}}
+{"name":"Abomasnow","type1":"Ice","type2":"","weakness":"Fire","role":"Tech","image":"pm0460_01_yukinooh_256.ktx.png","stats":{"base":{"attack":16,"defense":11,"hp":97,"speed":15,"sp_atk":10,"sp_def":13},"max":{"attack":182,"bulk":366,"defense":103,"hp":437,"speed":192,"sp_atk":127,"sp_def":105}}}

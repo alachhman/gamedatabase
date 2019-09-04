@@ -1,1 +1,1 @@
-{"name":"Cryogonal","type1":"Ice","type2":"Rock","weakness":"Fighting","role":"Tech","image":"pm0615_00_freegeo_256.ktx.png","stats":{"atk":162,"bulk":358,"def":92,"dex":42,"hp":414,"spatk":162,"spdef":116,"spd":282}}
+{"name":"Cryogonal","type1":"Ice","type2":"Rock","weakness":"Fighting","role":"Tech","image":"pm0615_00_freegeo_256.ktx.png","stats":{"base":{"attack":11,"defense":5,"hp":87,"speed":16,"sp_atk":11,"sp_def":14},"max":{"attack":162,"bulk":358,"defense":92,"hp":414,"speed":282,"sp_atk":162,"sp_def":116}}}
