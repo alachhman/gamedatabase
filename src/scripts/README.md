@@ -7,4 +7,8 @@ Feel free to use the scripts with the same purpose or modify them to your will.
 
 ## How to use the scripts?
 
-Just add the script as a new bookmark on chrome, name it as you want and paste the script in the url section.
+Go to the folder of interest (it must be empty), ex: pokemon
+
+1. `cd gamedatabase/src/pokemon`
+2. `node ../scripts/getPokemonData.js`
+3. Enjoy all the pokemon json files
