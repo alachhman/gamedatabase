@@ -1,1 +1,11 @@
-{"name":"Stomp","target":"An opponent","accuracy":"100","power":"53→63","type":"Normal","category":"Physical","cost":2,"description":"Has a moderate chance of making the target flinch.","skill_type":"Pokemon"}
+{
+  "name": "Stomp",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "53→63",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a moderate chance of making the target flinch.",
+  "skill_type": "Pokemon"
+}

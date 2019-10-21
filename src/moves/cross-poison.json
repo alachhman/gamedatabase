@@ -1,1 +1,11 @@
-{"name":"Cross Poison","target":"An opponent","accuracy":"100","power":"38→45","type":"Poison","category":"Physical","cost":2,"description":"Critical hits land more easily. Has a very small chance of leaving the target poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Cross Poison",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "38→45",
+  "type": "Poison",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Critical hits land more easily. Has a very small chance of leaving the target poisoned.",
+  "skill_type": "Pokemon"
+}

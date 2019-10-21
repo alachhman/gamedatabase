@@ -1,1 +1,11 @@
-{"name":"Iron Tail","target":"An opponent","accuracy":"75","power":"132→158","type":"Steel","category":"Physical","cost":3,"description":"Has a moderate chance of lowering the target’s Defense.","skill_type":"Pokemon"}
+{
+  "name": "Iron Tail",
+  "target": "An opponent",
+  "accuracy": "75",
+  "power": "132→158",
+  "type": "Steel",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a moderate chance of lowering the target’s Defense.",
+  "skill_type": "Pokemon"
+}

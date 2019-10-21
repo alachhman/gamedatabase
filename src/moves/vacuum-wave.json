@@ -1,1 +1,11 @@
-{"name":"Vacuum Wave","target":"An opponent","accuracy":"100","power":"20→24","type":"Fighting","category":"Special","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Vacuum Wave",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Fighting",
+  "category": "Special",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

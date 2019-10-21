@@ -1,1 +1,11 @@
-{"name":"Sandstorm","target":"Entire field","accuracy":"0","power":"0→0","type":"Rock","category":"Status%20Effect","cost":2,"description":"Causes a sandstorm.","skill_type":"Pokemon"}
+{
+  "name": "Sandstorm",
+  "target": "Entire field",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "Rock",
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Causes a sandstorm.",
+  "skill_type": "Pokemon"
+}

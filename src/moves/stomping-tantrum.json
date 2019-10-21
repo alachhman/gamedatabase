@@ -1,1 +1,11 @@
-{"name":"Stomping Tantrum","target":"An opponent","accuracy":"100","power":"44→52","type":"Ground","category":"Physical","cost":2,"description":"Its power is doubled if the user’s previous move failed.","skill_type":"Pokemon"}
+{
+  "name": "Stomping Tantrum",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "44→52",
+  "type": "Ground",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Its power is doubled if the user’s previous move failed.",
+  "skill_type": "Pokemon"
+}

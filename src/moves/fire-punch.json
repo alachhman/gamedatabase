@@ -1,1 +1,11 @@
-{"name":"Fire Punch","target":"An opponent","accuracy":"100","power":"47→56","type":"Fire","category":"Physical","cost":2,"description":"Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Fire Punch",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "47→56",
+  "type": "Fire",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a very small chance of leaving the target burned.",
+  "skill_type": "Pokemon"
+}

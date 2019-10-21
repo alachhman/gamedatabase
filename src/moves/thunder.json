@@ -1,1 +1,11 @@
-{"name":"Thunder","target":"An opponent","accuracy":"70","power":"124→148","type":"Electric","category":"Special","cost":3,"description":"Never misses when the weather is rainy. Has a moderate chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Thunder",
+  "target": "An opponent",
+  "accuracy": "70",
+  "power": "124→148",
+  "type": "Electric",
+  "category": "Special",
+  "cost": 3,
+  "description": "Never misses when the weather is rainy. Has a moderate chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

@@ -1,1 +1,11 @@
-{"name":"Thunder Wave","target":"An opponent","accuracy":"90","power":"0→0","type":"Electric","category":"Status%20Effect","cost":2,"description":"Leaves the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Thunder Wave",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "0→0",
+  "type": "Electric",
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Leaves the target paralyzed.",
+  "skill_type": "Pokemon"
+}

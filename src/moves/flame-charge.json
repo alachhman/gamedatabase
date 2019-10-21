@@ -1,1 +1,11 @@
-{"name":"Flame Charge","target":"An opponent","accuracy":"100","power":"30→36","type":"Fire","category":"Physical","cost":2,"description":"Raises the user’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Flame Charge",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "30→36",
+  "type": "Fire",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Raises the user’s Speed.",
+  "skill_type": "Pokemon"
+}

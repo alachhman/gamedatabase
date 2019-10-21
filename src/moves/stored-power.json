@@ -1,1 +1,11 @@
-{"name":"Stored Power","target":"An opponent","accuracy":"100","power":"13→15","type":"Psychic","category":"Special","cost":2,"description":"The more the user’s stats are raised, the greater the power of this move.","skill_type":"Pokemon"}
+{
+  "name": "Stored Power",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "13→15",
+  "type": "Psychic",
+  "category": "Special",
+  "cost": 2,
+  "description": "The more the user’s stats are raised, the greater the power of this move.",
+  "skill_type": "Pokemon"
+}

@@ -1,1 +1,15 @@
-{"name":"Pryce","info":"This veteran Gym Leader with over 50 years experience is known as the Winter Trainer. He stays healthy with his daily routine of early morning Pokémon battling.","base_potential":3,"recruit_method":"Story Progression","pokemon_list":["Dewgong","Seel"],"image":"Pryce_1","sync_pair_story":["A Day with Pryce","Seel’s Evolution"]}
+{
+  "name": "Pryce",
+  "info": "This veteran Gym Leader with over 50 years experience is known as the Winter Trainer. He stays healthy with his daily routine of early morning Pokémon battling.",
+  "base_potential": 3,
+  "recruit_method": "Story Progression",
+  "pokemon_list": [
+    "Dewgong",
+    "Seel"
+  ],
+  "image": "Pryce_1",
+  "sync_pair_story": [
+    "A Day with Pryce",
+    "Seel’s Evolution"
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"Play Rough","target":"An opponent","accuracy":"90","power":"111→133","type":"Fairy","category":"Physical","cost":3,"description":"Has a very small chance of lowering the target’s Attack.","skill_type":"Pokemon"}
+{
+  "name": "Play Rough",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "111→133",
+  "type": "Fairy",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a very small chance of lowering the target’s Attack.",
+  "skill_type": "Pokemon"
+}

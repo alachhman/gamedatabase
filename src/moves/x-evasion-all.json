@@ -1,1 +1,11 @@
-{"name":"X Evasion All","target":"All allies","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":0,"description":"Sharply raises the evasiveness of all allied sync pairs.","skill_type":"Pokemon"}
+{
+  "name": "X Evasion All",
+  "target": "All allies",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": 0,
+  "description": "Sharply raises the evasiveness of all allied sync pairs.",
+  "skill_type": "Pokemon"
+}

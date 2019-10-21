@@ -1,1 +1,13 @@
-{"name":"Hau","info":"An optimist whose constant smiling is infectious, he loves malasadas and fun. He takes Pokémon battles where Trainers are in sync with their Pokémon very seriously.","base_potential":4,"recruit_method":"Story Progression","pokemon_list":["Raichu (Alola Form)"],"image":"Hau_1","sync_pair_story":["A Day with Hau"]}
+{
+  "name": "Hau",
+  "info": "An optimist whose constant smiling is infectious, he loves malasadas and fun. He takes Pokémon battles where Trainers are in sync with their Pokémon very seriously.",
+  "base_potential": 4,
+  "recruit_method": "Story Progression",
+  "pokemon_list": [
+    "Raichu (Alola Form)"
+  ],
+  "image": "Hau_1",
+  "sync_pair_story": [
+    "A Day with Hau"
+  ]
+}

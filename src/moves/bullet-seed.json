@@ -1,1 +1,11 @@
-{"name":"Bullet Seed","target":"An opponent","accuracy":"100","power":"15→18","type":"Grass","category":"Physical","cost":2,"description":"Attacks the target two to five times in a row.","skill_type":"Pokemon"}
+{
+  "name": "Bullet Seed",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "15→18",
+  "type": "Grass",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Attacks the target two to five times in a row.",
+  "skill_type": "Pokemon"
+}

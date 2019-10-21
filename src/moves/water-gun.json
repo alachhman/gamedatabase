@@ -1,1 +1,11 @@
-{"name":"Water Gun","target":"An opponent","accuracy":"100","power":"20→24","type":"Water","category":"Special","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Water Gun",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Water",
+  "category": "Special",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

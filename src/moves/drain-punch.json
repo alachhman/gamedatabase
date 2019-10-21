@@ -1,1 +1,11 @@
-{"name":"Drain Punch","target":"An opponent","accuracy":"100","power":"91→109","type":"Fighting","category":"Physical","cost":3,"description":"Restores the user’s HP based on the amount of damage dealt to the target.","skill_type":"Pokemon"}
+{
+  "name": "Drain Punch",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "91→109",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Restores the user’s HP based on the amount of damage dealt to the target.",
+  "skill_type": "Pokemon"
+}

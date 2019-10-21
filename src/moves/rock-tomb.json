@@ -1,1 +1,11 @@
-{"name":"Rock Tomb","target":"An opponent","accuracy":"95","power":"39→46","type":"Rock","category":"Physical","cost":2,"description":"Lowers the target’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Rock Tomb",
+  "target": "An opponent",
+  "accuracy": "95",
+  "power": "39→46",
+  "type": "Rock",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Lowers the target’s Speed.",
+  "skill_type": "Pokemon"
+}

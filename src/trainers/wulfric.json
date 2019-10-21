@@ -1,1 +1,13 @@
-{"name":"Wulfric","info":"A lover of Ice-type Pokémon and a family man, this Gym Leader cried when he saw the Brycen-Man movie and became a huge fan.","base_potential":3,"recruit_method":"Sync Pair Scout","pokemon_list":["Avalugg"],"image":"Wulfric_1","sync_pair_story":["A Day with Wulfric"]}
+{
+  "name": "Wulfric",
+  "info": "A lover of Ice-type Pokémon and a family man, this Gym Leader cried when he saw the Brycen-Man movie and became a huge fan.",
+  "base_potential": 3,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Avalugg"
+  ],
+  "image": "Wulfric_1",
+  "sync_pair_story": [
+    "A Day with Wulfric"
+  ]
+}

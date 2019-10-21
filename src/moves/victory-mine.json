@@ -1,1 +1,11 @@
-{"name":"Victory Is Mine!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Returns the user’s lowered stats to normal. Raises the user’s critical-hit rate.","skill_type":"Trainer"}
+{
+  "name": "Victory Is Mine!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Returns the user’s lowered stats to normal. Raises the user’s critical-hit rate.",
+  "skill_type": "Trainer"
+}

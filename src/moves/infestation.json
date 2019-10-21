@@ -1,1 +1,11 @@
-{"name":"Infestation","target":"An opponent","accuracy":"100","power":"20→24","type":"Bug","category":"Special","cost":2,"description":"Leaves the target trapped.","skill_type":"Pokemon"}
+{
+  "name": "Infestation",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Bug",
+  "category": "Special",
+  "cost": 2,
+  "description": "Leaves the target trapped.",
+  "skill_type": "Pokemon"
+}

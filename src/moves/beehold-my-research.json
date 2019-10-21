@@ -1,1 +1,11 @@
-{"name":"Beehold My Research!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Raises the user’s Speed. Drastically raises the user’s evasiveness.","skill_type":"Trainer"}
+{
+  "name": "Beehold My Research!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Raises the user’s Speed. Drastically raises the user’s evasiveness.",
+  "skill_type": "Trainer"
+}

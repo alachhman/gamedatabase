@@ -1,1 +1,13 @@
-{"name":"Roxanne","info":"An honors student at the Trainers' School and a proud, skillful Gym Leader, she loves Rock-type Pokémon and fossils.","base_potential":3,"recruit_method":"Sync Pair Scout","pokemon_list":["Nosepass"],"image":"Roxanne_1","sync_pair_story":["A Day with Roxanne"]}
+{
+  "name": "Roxanne",
+  "info": "An honors student at the Trainers' School and a proud, skillful Gym Leader, she loves Rock-type Pokémon and fossils.",
+  "base_potential": 3,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Nosepass"
+  ],
+  "image": "Roxanne_1",
+  "sync_pair_story": [
+    "A Day with Roxanne"
+  ]
+}

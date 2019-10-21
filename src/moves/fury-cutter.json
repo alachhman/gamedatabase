@@ -1,1 +1,11 @@
-{"name":"Fury Cutter","target":"An opponent","accuracy":"95","power":"8→9","type":"Bug","category":"Physical","cost":1,"description":"Its power increases when used in succession.","skill_type":"Pokemon"}
+{
+  "name": "Fury Cutter",
+  "target": "An opponent",
+  "accuracy": "95",
+  "power": "8→9",
+  "type": "Bug",
+  "category": "Physical",
+  "cost": 1,
+  "description": "Its power increases when used in succession.",
+  "skill_type": "Pokemon"
+}

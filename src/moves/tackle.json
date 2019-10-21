@@ -1,1 +1,11 @@
-{"name":"Tackle","target":"An opponent","accuracy":"100","power":"25→30","type":"Normal","category":"Physical","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Tackle",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "25→30",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

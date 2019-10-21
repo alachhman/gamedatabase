@@ -1,1 +1,11 @@
-{"name":"Psybeam","target":"An opponent","accuracy":"100","power":"48→57","type":"Psychic","category":"Special","cost":2,"description":"Has a very small chance of leaving the target confused.","skill_type":"Pokemon"}
+{
+  "name": "Psybeam",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "48→57",
+  "type": "Psychic",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a very small chance of leaving the target confused.",
+  "skill_type": "Pokemon"
+}

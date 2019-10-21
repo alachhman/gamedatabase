@@ -1,1 +1,11 @@
-{"name":"Metal Claw","target":"An opponent","accuracy":"95","power":"21→25","type":"Steel","category":"Physical","cost":1,"description":"Has a very small chance of raising the user’s Attack.","skill_type":"Pokemon"}
+{
+  "name": "Metal Claw",
+  "target": "An opponent",
+  "accuracy": "95",
+  "power": "21→25",
+  "type": "Steel",
+  "category": "Physical",
+  "cost": 1,
+  "description": "Has a very small chance of raising the user’s Attack.",
+  "skill_type": "Pokemon"
+}

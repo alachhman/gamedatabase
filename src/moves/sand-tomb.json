@@ -1,1 +1,11 @@
-{"name":"Sand Tomb","target":"An opponent","accuracy":"85","power":"38→45","type":"Ground","category":"Physical","cost":2,"description":"Leaves the target trapped.","skill_type":"Pokemon"}
+{
+  "name": "Sand Tomb",
+  "target": "An opponent",
+  "accuracy": "85",
+  "power": "38→45",
+  "type": "Ground",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Leaves the target trapped.",
+  "skill_type": "Pokemon"
+}

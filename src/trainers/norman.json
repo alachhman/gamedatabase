@@ -1,1 +1,13 @@
-{"name":"Norman","info":"This Gym Leader is a serious, stoic family man who never neglects his training to become stronger - nor caring for his family - in his pursuit of victory.","base_potential":3,"recruit_method":"Story Progression","pokemon_list":["Slaking"],"image":"Norman_1","sync_pair_story":["A Day with Norman"]}
+{
+  "name": "Norman",
+  "info": "This Gym Leader is a serious, stoic family man who never neglects his training to become stronger - nor caring for his family - in his pursuit of victory.",
+  "base_potential": 3,
+  "recruit_method": "Story Progression",
+  "pokemon_list": [
+    "Slaking"
+  ],
+  "image": "Norman_1",
+  "sync_pair_story": [
+    "A Day with Norman"
+  ]
+}

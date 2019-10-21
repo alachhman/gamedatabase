@@ -1,1 +1,11 @@
-{"name":"Struggle Bug","target":"All opponents","accuracy":"100","power":"30→36","type":"Bug","category":"Special","cost":2,"description":"Lowers the target’s Sp. Atk.","skill_type":"Pokemon"}
+{
+  "name": "Struggle Bug",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "30→36",
+  "type": "Bug",
+  "category": "Special",
+  "cost": 2,
+  "description": "Lowers the target’s Sp. Atk.",
+  "skill_type": "Pokemon"
+}

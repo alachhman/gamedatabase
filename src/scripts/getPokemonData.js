@@ -4,170 +4,170 @@ const axios = require("axios");
 log = console.log;
 
 const getPokemonMastersPokemonList = async () => {
-  let json = await axios.get(
-    "https://gamepress.gg/sites/default/files/aggregatedjson/PokemonMastersPokemonList.json"
-  );
-
-  for (const pokemon of json.data) {
-    let name = pokemon.title_plain
-      .split("&amp;")
-      .pop()
-      .trim();
-    let filename = name
-      .toLowerCase()
-      .replace(/ /g, "-")
-      .replace(/\(|\)/g, "");
-
-    let type1 = pokemon.type1_plain;
-    let type2 = pokemon.type2_plain;
-    let weakness = pokemon.weakness_plain;
-    let role = pokemon.role;
-    let image = pokemon.icon
-      .replace(/\n/g, "")
-      .trim()
-      .replace(/<a href="(.*)"><img src="|".*$/gm, "")
-      .replace(/^\/sites.*(?=pm)|\?.*$/g, "");
-    let moves = [];
-
-    const pokemonMovesUri = await axios.get(
-      "https://pokemonmasters.gamepress.gg" + pokemon.path
+    let json = await axios.get(
+        "https://gamepress.gg/sites/default/files/aggregatedjson/PokemonMastersPokemonList.json"
     );
 
-    const $ = cheerio.load(pokemonMovesUri.data);
+    for (const pokemon of json.data) {
+        let name = pokemon.title_plain
+            .split("&amp;")
+            .pop()
+            .trim();
+        let filename = name
+            .toLowerCase()
+            .replace(/ /g, "-")
+            .replace(/\(|\)/g, "");
 
-    const movesTable = $(
-      ".view-moves-on-pokemon-node.pokemon-node-moves-container > div.views-row.pokemon-node-move > div.move-pokemon-page-container"
-    );
+        let type1 = pokemon.type1_plain;
+        let type2 = pokemon.type2_plain;
+        let weakness = pokemon.weakness_plain;
+        let role = pokemon.role;
+        let image = pokemon.icon
+            .replace(/\n/g, "")
+            .trim()
+            .replace(/<a href="(.*)"><img src="|".*$/gm, "")
+            .replace(/^\/sites.*(?=pm)|\?.*$/g, "");
+        let moves = [];
 
-    movesTable.each(function() {
-      const move_name = $(this)
-        .find(".move-pokemon-page-title > a")
-        .text();
-      const move_type = $(this)
-        .find(".move-type > td")
-        .text()
-        .trim();
-      const move_category = $(this)
-        .find(".move-category > td > img")
-        .attr("src")
-        .split("/")
-        .pop()
-        .split(".")[0]
-        .replace(/%20/g, " ");
-      const move_power = {
-        min_power: parseInt(
-          $(this)
-            .find(".move-pokemon-page-power > span.min-power")
-            .text()
-        ),
-        max_power: parseInt(
-          $(this)
-            .find(".move-pokemon-page-power > span.max-power")
-            .text()
-        )
-      };
-      const move_accuracy = parseInt(
-        $(this)
-          .find(".move-accuracy > th:contains('Accuracy') + td")
-          .text()
-      );
-      const move_target = $(this)
-        .find(".move-target > th:contains('Target') + td")
-        .text();
-      const move_cost =
-        $(this).find(".pokemon-cost-box-PG").length > 0
-          ? parseInt($(this).find(".pokemon-cost-box-PG").length)
-          : "";
-      const move_uses =
-        $(this).find(".move-uses > td > a").length > 0
-          ? parseInt(
-              $(this)
-                .find(".move-uses > td > a")
+        const pokemonMovesUri = await axios.get(
+            "https://pokemonmasters.gamepress.gg" + pokemon.path
+        );
+
+        const $ = cheerio.load(pokemonMovesUri.data);
+
+        const movesTable = $(
+            ".view-moves-on-pokemon-node.pokemon-node-moves-container > div.views-row.pokemon-node-move > div.move-pokemon-page-container"
+        );
+
+        movesTable.each(function () {
+            const move_name = $(this)
+                .find(".move-pokemon-page-title > a")
+                .text();
+            const move_type = $(this)
+                .find(".move-type > td")
                 .text()
-            )
-          : "";
-      const move_effect = $(this)
-        .find(".move-effect")
-        .text();
-      const move_unlock_requirements = [];
+                .trim();
+            const move_category = $(this)
+                .find(".move-category > td > img")
+                .attr("src")
+                .split("/")
+                .pop()
+                .split(".")[0]
+                .replace(/%20/g, " ");
+            const move_power = {
+                min_power: parseInt(
+                    $(this)
+                        .find(".move-pokemon-page-power > span.min-power")
+                        .text()
+                ),
+                max_power: parseInt(
+                    $(this)
+                        .find(".move-pokemon-page-power > span.max-power")
+                        .text()
+                )
+            };
+            const move_accuracy = parseInt(
+                $(this)
+                    .find(".move-accuracy > th:contains('Accuracy') + td")
+                    .text()
+            );
+            const move_target = $(this)
+                .find(".move-target > th:contains('Target') + td")
+                .text();
+            const move_cost =
+                $(this).find(".pokemon-cost-box-PG").length > 0
+                    ? parseInt($(this).find(".pokemon-cost-box-PG").length)
+                    : "";
+            const move_uses =
+                $(this).find(".move-uses > td > a").length > 0
+                    ? parseInt(
+                    $(this)
+                        .find(".move-uses > td > a")
+                        .text()
+                    )
+                    : "";
+            const move_effect = $(this)
+                .find(".move-effect")
+                .text();
+            const move_unlock_requirements = [];
 
-      $(this)
-        .find(
-          ".field--name-field-move-unlock-requirements > .field__items > .field__item"
-        )
-        .each(function() {
-          move_unlock_requirements.push(
             $(this)
-              .find(".move-unlock-requirements-text")
-              .text()
-          );
+                .find(
+                    ".field--name-field-move-unlock-requirements > .field__items > .field__item"
+                )
+                .each(function () {
+                    move_unlock_requirements.push(
+                        $(this)
+                            .find(".move-unlock-requirements-text")
+                            .text()
+                    );
+                });
+
+            moves.push({
+                name: move_name,
+                type: move_type,
+                category: move_category,
+                power: move_power,
+                accuracy: move_accuracy,
+                target: move_target,
+                cost: move_cost,
+                uses: parseInt(move_uses),
+                effect: move_effect,
+                unlock_requirements: move_unlock_requirements
+            });
         });
 
-      moves.push({
-        name: move_name,
-        type: move_type,
-        category: move_category,
-        power: move_power,
-        accuracy: move_accuracy,
-        target: move_target,
-        cost: move_cost,
-        uses: parseInt(move_uses),
-        effect: move_effect,
-        unlock_requirements: move_unlock_requirements
-      });
-    });
+        let stats = [];
 
-    let stats = [];
+        const pokemonStats = await axios.get(
+            "https://gamepress.gg/sites/default/files/aggregatedjson/StatRankingsMastersPokemon.json"
+        );
 
-    const pokemonStats = await axios.get(
-      "https://gamepress.gg/sites/default/files/aggregatedjson/StatRankingsMastersPokemon.json"
-    );
+        await pokemonStats.data.map(stat => {
+            let statFileName = stat.title
+                .split("&amp;")
+                .pop()
+                .trim()
+                .toLowerCase()
+                .replace(/ /g, "-")
+                .replace(/\(|\)/g, "");
+            if (statFileName === filename) {
+                stats = {
+                    base: {
+                        attack: parseInt(stat.field_base_attack),
+                        defense: parseInt(stat.field_base_defense),
+                        hp: parseInt(stat.field_base_hp),
+                        speed: parseInt(stat.field_base_speed),
+                        sp_atk: parseInt(stat.field_base_sp_atk),
+                        sp_def: parseInt(stat.field_base_sp_def)
+                    },
+                    max: {
+                        attack: parseInt(stat.field_max_attack),
+                        bulk: parseInt(stat.field_max_bulk_floored),
+                        defense: parseInt(stat.field_max_defense),
+                        hp: parseInt(stat.field_max_hp),
+                        speed: parseInt(stat.field_max_speed),
+                        sp_atk: parseInt(stat.field_max_sp_atk),
+                        sp_def: parseInt(stat.field_max_sp_def)
+                    }
+                };
+            }
+        });
 
-    await pokemonStats.data.map(stat => {
-      let statFileName = stat.title
-        .split("&amp;")
-        .pop()
-        .trim()
-        .toLowerCase()
-        .replace(/ /g, "-")
-        .replace(/\(|\)/g, "");
-      if (statFileName === filename) {
-        stats = {
-          base: {
-            attack: parseInt(stat.field_base_attack),
-            defense: parseInt(stat.field_base_defense),
-            hp: parseInt(stat.field_base_hp),
-            speed: parseInt(stat.field_base_speed),
-            sp_atk: parseInt(stat.field_base_sp_atk),
-            sp_def: parseInt(stat.field_base_sp_def)
-          },
-          max: {
-            attack: parseInt(stat.field_max_attack),
-            bulk: parseInt(stat.field_max_bulk_floored),
-            defense: parseInt(stat.field_max_defense),
-            hp: parseInt(stat.field_max_hp),
-            speed: parseInt(stat.field_max_speed),
-            sp_atk: parseInt(stat.field_max_sp_atk),
-            sp_def: parseInt(stat.field_max_sp_def)
-          }
+        let object = {
+            name: name === "" ? "" : name,
+            type1: type1 === "" ? "" : type1,
+            type2: type2 === "" ? "" : type2,
+            weakness: weakness === "" ? "" : weakness,
+            role: role === "" ? "" : role,
+            image: image === "" ? "" : image,
+            stats: stats,
+            moves: moves
         };
-      }
-    });
 
-    let object = {
-      name: name === "" ? "" : name,
-      type1: type1 === "" ? "" : type1,
-      type2: type2 === "" ? "" : type2,
-      weakness: weakness === "" ? "" : weakness,
-      role: role === "" ? "" : role,
-      image: image === "" ? "" : image,
-      stats: stats,
-      moves: moves
-    };
-
-    let objectString = JSON.stringify(object);
-    fs.writeFileSync(filename + ".json", objectString);
-  }
+        let objectString = JSON.stringify(object);
+        fs.writeFileSync(filename + ".json", objectString);
+    }
 };
 
 getPokemonMastersPokemonList();

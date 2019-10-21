@@ -1,1 +1,13 @@
-{"name":"Erika","info":"A cute Gym Leader who loves Grass-type Pokémon, this well-mannered Trainer teaches flower arrangement in Kanto.","base_potential":3,"recruit_method":"Story Progression","pokemon_list":["Vileplume"],"image":"Erika_1","sync_pair_story":["A Day with Erika"]}
+{
+  "name": "Erika",
+  "info": "A cute Gym Leader who loves Grass-type Pokémon, this well-mannered Trainer teaches flower arrangement in Kanto.",
+  "base_potential": 3,
+  "recruit_method": "Story Progression",
+  "pokemon_list": [
+    "Vileplume"
+  ],
+  "image": "Erika_1",
+  "sync_pair_story": [
+    "A Day with Erika"
+  ]
+}

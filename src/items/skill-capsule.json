@@ -1,1 +1,5 @@
-{"name":"Skill Capsule","image":"Skill Capsule","description":"Used for learning moves and passive skills."}
+{
+  "name": "Skill Capsule",
+  "image": "Skill Capsule",
+  "description": "Used for learning moves and passive skills."
+}

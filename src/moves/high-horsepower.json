@@ -1,1 +1,11 @@
-{"name":"High Horsepower","target":"An opponent","accuracy":"95","power":"106→127","type":"Ground","category":"Physical","cost":3,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "High Horsepower",
+  "target": "An opponent",
+  "accuracy": "95",
+  "power": "106→127",
+  "type": "Ground",
+  "category": "Physical",
+  "cost": 3,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

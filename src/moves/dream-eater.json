@@ -1,1 +1,11 @@
-{"name":"Dream Eater","target":"An opponent","accuracy":"100","power":"146→175","type":"Psychic","category":"Special","cost":3,"description":"Restores the user’s HP based on the amount of damage dealt to the target. Fails if the target is not asleep.","skill_type":"Pokemon"}
+{
+  "name": "Dream Eater",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "146→175",
+  "type": "Psychic",
+  "category": "Special",
+  "cost": 3,
+  "description": "Restores the user’s HP based on the amount of damage dealt to the target. Fails if the target is not asleep.",
+  "skill_type": "Pokemon"
+}

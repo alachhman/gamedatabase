@@ -1,1 +1,5 @@
-{"name":"Voucher A","image":"Voucher A_0","description":"Can be exchanged for items in the shop during events."}
+{
+  "name": "Voucher A",
+  "image": "Voucher A_0",
+  "description": "Can be exchanged for items in the shop during events."
+}

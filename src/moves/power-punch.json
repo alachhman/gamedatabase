@@ -1,1 +1,11 @@
-{"name":"Power-Up Punch","target":"An opponent","accuracy":"100","power":"30→36","type":"Fighting","category":"Physical","cost":2,"description":"Raises the user’s Attack.","skill_type":"Pokemon"}
+{
+  "name": "Power-Up Punch",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "30→36",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Raises the user’s Attack.",
+  "skill_type": "Pokemon"
+}

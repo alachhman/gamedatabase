@@ -1,1 +1,13 @@
-{"name":"Janine","info":"Koga's daughter and a ninja Gym Leader, she uses Poison-type Pokémon out of respect for her father. She also likes to argue like him from time to time.","base_potential":3,"recruit_method":"Sync Pair Scout","pokemon_list":["Ariados"],"image":"Janine_1","sync_pair_story":["A Day with Janine"]}
+{
+  "name": "Janine",
+  "info": "Koga's daughter and a ninja Gym Leader, she uses Poison-type Pokémon out of respect for her father. She also likes to argue like him from time to time.",
+  "base_potential": 3,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Ariados"
+  ],
+  "image": "Janine_1",
+  "sync_pair_story": [
+    "A Day with Janine"
+  ]
+}

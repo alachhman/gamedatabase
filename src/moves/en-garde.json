@@ -1,1 +1,11 @@
-{"name":"En Garde!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Drastically raises the user’s Attack and raises its critical-hit rate when it is in Blade Forme. Sharply raises the user’s Defense and Sp. Def when it is in Shield Forme.","skill_type":"Trainer"}
+{
+  "name": "En Garde!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Drastically raises the user’s Attack and raises its critical-hit rate when it is in Blade Forme. Sharply raises the user’s Defense and Sp. Def when it is in Shield Forme.",
+  "skill_type": "Trainer"
+}

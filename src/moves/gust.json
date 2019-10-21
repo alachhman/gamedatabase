@@ -1,1 +1,11 @@
-{"name":"Gust","target":"An opponent","accuracy":"100","power":"20→24","type":"Flying","category":"Special","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Gust",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Flying",
+  "category": "Special",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

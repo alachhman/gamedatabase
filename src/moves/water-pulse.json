@@ -1,1 +1,11 @@
-{"name":"Water Pulse","target":"An opponent","accuracy":"100","power":"47→56","type":"Water","category":"Special","cost":2,"description":"Has a small chance of leaving the target confused.","skill_type":"Pokemon"}
+{
+  "name": "Water Pulse",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "47→56",
+  "type": "Water",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a small chance of leaving the target confused.",
+  "skill_type": "Pokemon"
+}

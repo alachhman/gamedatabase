@@ -1,1 +1,11 @@
-{"name":"Will-O-Wisp","target":"An opponent","accuracy":"90","power":"0→0","type":"Fire","category":"Status%20Effect","cost":2,"description":"Leaves the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Will-O-Wisp",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "0→0",
+  "type": "Fire",
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Leaves the target burned.",
+  "skill_type": "Pokemon"
+}

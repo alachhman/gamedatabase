@@ -1,1 +1,14 @@
-{"name":"Bugsy","info":"The youngest Gym Leader in Johto and a lover of bug Pokémon, he has great knowledge of Bug types and wants to become a Pokémon Professor.","base_potential":3,"recruit_method":"Sync Pair Scout","pokemon_list":["Beedrill","Mega Beedrill"],"image":"Bugsy_1","sync_pair_story":["A Day with Bugsy"]}
+{
+  "name": "Bugsy",
+  "info": "The youngest Gym Leader in Johto and a lover of bug Pokémon, he has great knowledge of Bug types and wants to become a Pokémon Professor.",
+  "base_potential": 3,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Beedrill",
+    "Mega Beedrill"
+  ],
+  "image": "Bugsy_1",
+  "sync_pair_story": [
+    "A Day with Bugsy"
+  ]
+}

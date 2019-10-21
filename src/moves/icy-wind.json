@@ -1,1 +1,11 @@
-{"name":"Icy Wind","target":"All opponents","accuracy":"95","power":"92→110","type":"Ice","category":"Special","cost":3,"description":"Lowers the target’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Icy Wind",
+  "target": "All opponents",
+  "accuracy": "95",
+  "power": "92→110",
+  "type": "Ice",
+  "category": "Special",
+  "cost": 3,
+  "description": "Lowers the target’s Speed.",
+  "skill_type": "Pokemon"
+}

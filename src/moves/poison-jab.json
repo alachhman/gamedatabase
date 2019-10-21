@@ -1,1 +1,11 @@
-{"name":"Poison Jab","target":"An opponent","accuracy":"100","power":"92→110","type":"Poison","category":"Physical","cost":3,"description":"Has a moderate chance of leaving the target poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Poison Jab",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "92→110",
+  "type": "Poison",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a moderate chance of leaving the target poisoned.",
+  "skill_type": "Pokemon"
+}

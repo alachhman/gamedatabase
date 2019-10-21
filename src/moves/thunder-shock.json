@@ -1,1 +1,11 @@
-{"name":"Thunder Shock","target":"An opponent","accuracy":"100","power":"17→20","type":"Electric","category":"Special","cost":1,"description":"Has a very small chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Thunder Shock",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "17→20",
+  "type": "Electric",
+  "category": "Special",
+  "cost": 1,
+  "description": "Has a very small chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

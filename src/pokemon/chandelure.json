@@ -1,1 +1,96 @@
-{"name":"Chandelure","type1":"Ghost","type2":"","weakness":"Rock","role":"Strike (Special)","image":"pm0609_00_chandela_256.ktx.png","stats":{"base":{"attack":4,"defense":8,"hp":82,"speed":14,"sp_atk":18,"sp_def":11},"max":{"attack":96,"bulk":354,"defense":88,"hp":392,"speed":187,"sp_atk":298,"sp_def":124}},"moves":[{"name":"Hex","type":"Ghost","category":"Special","power":{"min_power":38,"max_power":45},"accuracy":100,"target":"An opponent","cost":2,"uses":null,"effect":"Its power is doubled if the target is affected by a status condition.","unlock_requirements":[]},{"name":"X Sp. Atk","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"Self","cost":"","uses":2,"effect":"Sharply raises the user’s Sp. Atk.","unlock_requirements":[]},{"name":"Shadow Ball","type":"Ghost","category":"Special","power":{"min_power":99,"max_power":118},"accuracy":100,"target":"An opponent","cost":3,"uses":null,"effect":"Has a small chance of lowering the target’s Sp. Def.","unlock_requirements":["Training Machine x5"]},{"name":"A Tale of Triumph!","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"Self","cost":"","uses":2,"effect":"Drastically raises the user’s Speed. Sharply raises the user’s evasiveness. Leaves the user burned.","unlock_requirements":["Great Buff Blend x10","Ultra Buff Blend x3","Training Machine x30","Super Training Machine x5"]}]}
+{
+  "name": "Chandelure",
+  "type1": "Ghost",
+  "type2": "",
+  "weakness": "Rock",
+  "role": "Strike (Special)",
+  "image": "pm0609_00_chandela_256.ktx.png",
+  "stats": {
+    "base": {
+      "attack": 4,
+      "defense": 8,
+      "hp": 82,
+      "speed": 14,
+      "sp_atk": 18,
+      "sp_def": 11
+    },
+    "max": {
+      "attack": 96,
+      "bulk": 354,
+      "defense": 88,
+      "hp": 392,
+      "speed": 187,
+      "sp_atk": 298,
+      "sp_def": 124
+    }
+  },
+  "moves": [
+    {
+      "name": "Hex",
+      "type": "Ghost",
+      "category": "Special",
+      "power": {
+        "min_power": 38,
+        "max_power": 45
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 2,
+      "uses": null,
+      "effect": "Its power is doubled if the target is affected by a status condition.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "X Sp. Atk",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "Self",
+      "cost": "",
+      "uses": 2,
+      "effect": "Sharply raises the user’s Sp. Atk.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "Shadow Ball",
+      "type": "Ghost",
+      "category": "Special",
+      "power": {
+        "min_power": 99,
+        "max_power": 118
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 3,
+      "uses": null,
+      "effect": "Has a small chance of lowering the target’s Sp. Def.",
+      "unlock_requirements": [
+        "Training Machine x5"
+      ]
+    },
+    {
+      "name": "A Tale of Triumph!",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "Self",
+      "cost": "",
+      "uses": 2,
+      "effect": "Drastically raises the user’s Speed. Sharply raises the user’s evasiveness. Leaves the user burned.",
+      "unlock_requirements": [
+        "Great Buff Blend x10",
+        "Ultra Buff Blend x3",
+        "Training Machine x30",
+        "Super Training Machine x5"
+      ]
+    }
+  ]
+}

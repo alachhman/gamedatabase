@@ -1,1 +1,11 @@
-{"name":"Hydro Pump","target":"An opponent","accuracy":"80","power":"125→150","type":"Water","category":"Special","cost":3,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Hydro Pump",
+  "target": "An opponent",
+  "accuracy": "80",
+  "power": "125→150",
+  "type": "Water",
+  "category": "Special",
+  "cost": 3,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

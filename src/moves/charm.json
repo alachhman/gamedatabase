@@ -1,1 +1,11 @@
-{"name":"Charm","target":"An opponent","accuracy":"100","power":"0→0","type":"Fairy","category":"Status%20Effect","cost":2,"description":"Sharply lowers the target’s Attack.","skill_type":"Pokemon"}
+{
+  "name": "Charm",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "0→0",
+  "type": "Fairy",
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Sharply lowers the target’s Attack.",
+  "skill_type": "Pokemon"
+}

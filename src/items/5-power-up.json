@@ -1,1 +1,5 @@
-{"name":"5★ Power-Up","image":"5★ Power-Up","description":"Used to increase a sync pair's number of ★s."}
+{
+  "name": "5★ Power-Up",
+  "image": "5★ Power-Up",
+  "description": "Used to increase a sync pair's number of ★s."
+}

@@ -1,1 +1,11 @@
-{"name":"Giga Impact","target":"An opponent","accuracy":"90","power":"223→267","type":"Normal","category":"Physical","cost":0,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Giga Impact",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "223→267",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 0,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

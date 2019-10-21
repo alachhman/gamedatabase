@@ -1,1 +1,11 @@
-{"name":"Snarl","target":"All opponents","accuracy":"95","power":"39→46","type":"Dark","category":"Special","cost":2,"description":"Lowers the target’s Sp. Atk.","skill_type":"Pokemon"}
+{
+  "name": "Snarl",
+  "target": "All opponents",
+  "accuracy": "95",
+  "power": "39→46",
+  "type": "Dark",
+  "category": "Special",
+  "cost": 2,
+  "description": "Lowers the target’s Sp. Atk.",
+  "skill_type": "Pokemon"
+}

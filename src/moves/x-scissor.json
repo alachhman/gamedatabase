@@ -1,1 +1,11 @@
-{"name":"X-Scissor","target":"An opponent","accuracy":"100","power":"50→60","type":"Bug","category":"Physical","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "X-Scissor",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "50→60",
+  "type": "Bug",
+  "category": "Physical",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

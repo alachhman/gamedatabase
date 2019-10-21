@@ -1,1 +1,96 @@
-{"name":"Pikachu","type1":"Electric","type2":"","weakness":"Ground","role":"Strike (Special)","image":"pm0025_00_pikachu_256.ktx.png","stats":{"base":{"attack":10,"defense":5,"hp":62,"speed":9,"sp_atk":11,"sp_def":6},"max":{"attack":194,"bulk":338,"defense":83,"hp":399,"speed":210,"sp_atk":255,"sp_def":110}},"moves":[{"name":"Thunder Shock","type":"Electric","category":"Special","power":{"min_power":17,"max_power":20},"accuracy":100,"target":"An opponent","cost":1,"uses":null,"effect":"Has a very small chance of leaving the target paralyzed.","unlock_requirements":[]},{"name":"Potion","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"An ally","cost":"","uses":2,"effect":"Restores a bit of an ally’s HP.","unlock_requirements":[]},{"name":"Thunderbolt","type":"Electric","category":"Special","power":{"min_power":47,"max_power":56},"accuracy":100,"target":"An opponent","cost":2,"uses":null,"effect":"Has a very small chance of leaving the target paralyzed.","unlock_requirements":["Training Machine x5"]},{"name":"Jump Start!","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"Self","cost":"","uses":2,"effect":"Sharply raises the user’s Sp. Atk. Raises the user’s Speed.","unlock_requirements":["Great Buff Blend x10","Ultra Buff Blend x3","Training Machine x30","Super Training Machine x5"]}]}
+{
+  "name": "Pikachu",
+  "type1": "Electric",
+  "type2": "",
+  "weakness": "Ground",
+  "role": "Strike (Special)",
+  "image": "pm0025_00_pikachu_256.ktx.png",
+  "stats": {
+    "base": {
+      "attack": 10,
+      "defense": 5,
+      "hp": 62,
+      "speed": 9,
+      "sp_atk": 11,
+      "sp_def": 6
+    },
+    "max": {
+      "attack": 194,
+      "bulk": 338,
+      "defense": 83,
+      "hp": 399,
+      "speed": 210,
+      "sp_atk": 255,
+      "sp_def": 110
+    }
+  },
+  "moves": [
+    {
+      "name": "Thunder Shock",
+      "type": "Electric",
+      "category": "Special",
+      "power": {
+        "min_power": 17,
+        "max_power": 20
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 1,
+      "uses": null,
+      "effect": "Has a very small chance of leaving the target paralyzed.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "Potion",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "An ally",
+      "cost": "",
+      "uses": 2,
+      "effect": "Restores a bit of an ally’s HP.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "Thunderbolt",
+      "type": "Electric",
+      "category": "Special",
+      "power": {
+        "min_power": 47,
+        "max_power": 56
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 2,
+      "uses": null,
+      "effect": "Has a very small chance of leaving the target paralyzed.",
+      "unlock_requirements": [
+        "Training Machine x5"
+      ]
+    },
+    {
+      "name": "Jump Start!",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "Self",
+      "cost": "",
+      "uses": 2,
+      "effect": "Sharply raises the user’s Sp. Atk. Raises the user’s Speed.",
+      "unlock_requirements": [
+        "Great Buff Blend x10",
+        "Ultra Buff Blend x3",
+        "Training Machine x30",
+        "Super Training Machine x5"
+      ]
+    }
+  ]
+}

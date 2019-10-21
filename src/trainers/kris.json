@@ -1,1 +1,17 @@
-{"name":"Kris","info":"Utilizing her deep knowledge of Pokémon on her journey, she looks out for all Pokémon and treats them with love. She is known for her kind personality.","base_potential":5,"recruit_method":"Sync Pair Scout","pokemon_list":["Croconaw","Feraligatr","Totodile"],"image":"Kris_1","sync_pair_story":["A Day with Kris","Totodile’s Evolution","Croconaw’s Evolution"]}
+{
+  "name": "Kris",
+  "info": "Utilizing her deep knowledge of Pokémon on her journey, she looks out for all Pokémon and treats them with love. She is known for her kind personality.",
+  "base_potential": 5,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Croconaw",
+    "Feraligatr",
+    "Totodile"
+  ],
+  "image": "Kris_1",
+  "sync_pair_story": [
+    "A Day with Kris",
+    "Totodile’s Evolution",
+    "Croconaw’s Evolution"
+  ]
+}

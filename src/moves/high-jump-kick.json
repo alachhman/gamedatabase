@@ -1,1 +1,11 @@
-{"name":"High Jump Kick","target":"An opponent","accuracy":"90","power":"135→162","type":"Fighting","category":"Physical","cost":3,"description":"If it fails, the user takes damage equal to half of its maximum HP.","skill_type":"Pokemon"}
+{
+  "name": "High Jump Kick",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "135→162",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 3,
+  "description": "If it fails, the user takes damage equal to half of its maximum HP.",
+  "skill_type": "Pokemon"
+}

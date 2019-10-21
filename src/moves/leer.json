@@ -1,1 +1,11 @@
-{"name":"Leer","target":"All opponents","accuracy":"100","power":"0→0","type":"Normal","category":"Status%20Effect","cost":1,"description":"Lowers the target’s Defense.","skill_type":"Pokemon"}
+{
+  "name": "Leer",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "0→0",
+  "type": "Normal",
+  "category": "Status%20Effect",
+  "cost": 1,
+  "description": "Lowers the target’s Defense.",
+  "skill_type": "Pokemon"
+}

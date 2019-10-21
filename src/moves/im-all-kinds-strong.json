@@ -1,1 +1,11 @@
-{"name":"I’m All Kinds of Strong!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Restores a bit of the user’s HP. Sharply raises the user’s Defense.","skill_type":"Trainer"}
+{
+  "name": "I’m All Kinds of Strong!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Restores a bit of the user’s HP. Sharply raises the user’s Defense.",
+  "skill_type": "Trainer"
+}

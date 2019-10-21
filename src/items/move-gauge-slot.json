@@ -1,1 +1,5 @@
-{"name":"Move Gauge Slot","image":"Move Gauge Slot","description":"Extends the move gauge by one slot."}
+{
+  "name": "Move Gauge Slot",
+  "image": "Move Gauge Slot",
+  "description": "Extends the move gauge by one slot."
+}

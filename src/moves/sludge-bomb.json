@@ -1,1 +1,11 @@
-{"name":"Sludge Bomb","target":"An opponent","accuracy":"100","power":"92→110","type":"Poison","category":"Special","cost":3,"description":"Has a moderate chance of leaving the target poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Sludge Bomb",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "92→110",
+  "type": "Poison",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a moderate chance of leaving the target poisoned.",
+  "skill_type": "Pokemon"
+}

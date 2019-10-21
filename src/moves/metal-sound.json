@@ -1,1 +1,11 @@
-{"name":"Metal Sound","target":"An opponent","accuracy":"100","power":"0→0","type":"Steel","category":"Status%20Effect","cost":2,"description":"Sharply lowers the target’s Sp. Def.","skill_type":"Pokemon"}
+{
+  "name": "Metal Sound",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "0→0",
+  "type": "Steel",
+  "category": "Status%20Effect",
+  "cost": 2,
+  "description": "Sharply lowers the target’s Sp. Def.",
+  "skill_type": "Pokemon"
+}

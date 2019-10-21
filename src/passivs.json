@@ -1,0 +1,432 @@
+[
+  {
+    name: "Sand Fortress",
+    effect: "Stats cannot be lowered in a sandstorm.",
+    pokemon: [
+      "Acerola & Palossand"
+    ]
+  },
+  {
+    name: "Wide Awake",
+    effect: "Prevents the Pokémon from falling asleep.",
+    pokemon: [
+      "Agatha & Gengar",
+      "Grant & Amaura",
+      "Thorton & Bronzong"
+    ]
+  },
+  {
+    name: "Power Flux 5",
+    effect: "The fuller the move gauge, the more this powers up moves.",
+    pokemon: [
+      "Barry & Piplup",
+      "Olivia & Lycanroc (Midnight Form)"
+    ]
+  },
+  {
+    name: "Hostile Environment 1",
+    effect: "Raises the chance of inflicting status conditions with the additional effects of moves.",
+    pokemon: [
+      "Blaine & Ponyta"
+    ]
+  },
+  {
+    name: "Acuity",
+    effect: "Accuracy cannot be lowered.",
+    pokemon: [
+      "Blue & Pidgeot",
+      "Hilda & Tepig",
+      "Hilda & Pignite",
+      "Hilda & Emboar"
+    ]
+  },
+  {
+    name: "Haste",
+    effect: "Speed cannot be lowered.",
+    pokemon: [
+      "Blue & Pidgeot",
+      "Wulfric & Avalugg",
+      "Brawly & Makuhita"
+    ]
+  },
+  {
+    name: "Power Reserves 2",
+    effect: "Powers up moves in a pinch.",
+    pokemon: [
+      "Brawly & Makuhita"
+    ]
+  },
+  {
+    name: "Lithe",
+    effect: "Prevents the Pokémon from getting paralyzed.",
+    pokemon: [
+      "Brendan & Treecko"
+    ]
+  },
+  {
+    name: "Stoic 2",
+    effect: "Occasionally raises the Pokémon's Defense after it uses a move.",
+    pokemon: [
+      "Brock & Onix",
+      "Bugsy & Beedrill",
+      "Bugsy & Beedrill (Mega Beedrill)"
+    ]
+  },
+  {
+    name: "Critical Strike 2",
+    effect: "Powers up moves when those moves land critical hits.",
+    pokemon: [
+      "Bruno & Machamp"
+    ]
+  },
+  {
+    name: "Healing Hail 1",
+    effect: "Restores the Pokémon's HP whenever it takes an action during a hailstorm.",
+    pokemon: [
+      "Brycen & Cryogonal"
+    ]
+  },
+  {
+    name: "Snow Shelter",
+    effect: "Protects the Pokémon from damage from a hailstorm.",
+    pokemon: [
+      "Brycen & Cryogonal",
+      "Kris & Croconaw",
+      "Kris & Feraligatr"
+    ]
+  },
+  {
+    name: "Amped Up 1",
+    effect: "Raises the Pokémon's Speed when it lands a critical hit.",
+    pokemon: [
+      "Bugsy & Beedrill (Mega Beedrill)",
+      "Hilda & Emboar"
+    ]
+  },
+  {
+    name: "Antifreeze",
+    effect: "Prevents the Pokémon from becoming frozen.",
+    pokemon: [
+      "Candice & Abomasnow",
+      "Karen & Houndoom (Mega Houndoom)"
+    ]
+  },
+  {
+    name: "Outrun 4",
+    effect: "Quickly charges the move gauge when the Pokémon is affected by a status condition.",
+    pokemon: [
+      "Cheren & Stoutland"
+    ]
+  },
+  {
+    name: "Healing Hand 2",
+    effect: "Occasionally removes all status conditions of all allied sync pairs after the Pokémon uses a move.",
+    pokemon: [
+      "Cheryl & Blissey",
+      "Blue & Pidgeot (Mega Pidgeot)",
+      "Brendan & Treecko",
+      "Koga & Crobat",
+      "Marley & Arcanine"
+    ]
+  },
+  {
+    name: "Racing Rain 2",
+    effect: "Quickly charges the move gauge when the weather is rainy.",
+    pokemon: [
+      "Clair & Kingdra",
+      "Roark & Cranidos",
+      "Tate & Solrock",
+      "Clay & Palpitoad"
+    ]
+  },
+  {
+    name: "Antitoxin",
+    effect: "Prevents the Pokémon from getting poisoned or badly poisoned.",
+    pokemon: [
+      "Clay & Palpitoad"
+    ]
+  },
+  {
+    name: "Aggravation 1",
+    effect: "Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.",
+    pokemon: [
+      "Crasher Wake & Floatzel",
+      "Misty & Starmie"
+    ]
+  },
+  {
+    name: "Terrify 1",
+    effect: "Lowers the Attack of all opposing sync pairs when the Pokémon enters a battle.",
+    pokemon: [
+      "Drake & Salamence",
+      "Roxie & Whirlipede"
+    ]
+  },
+  {
+    name: "Hit and Run 2",
+    effect: "Occasionally raises the Pokémon's Speed after it uses a move.",
+    pokemon: [
+      "Elesa & Zebstrika",
+      "Janine & Ariados",
+      "Lorelei & Lapras"
+    ]
+  },
+  {
+    name: "Piercing Gaze",
+    effect: "Moves never miss.",
+    pokemon: [
+      "Erika & Vileplume",
+      "Hilbert & Oshawott",
+      "Mina & Granbull",
+      "Noland & Pinsir (Mega Pinsir)",
+      "Will & Xatu"
+    ]
+  },
+  {
+    name: "Impervious",
+    effect: "Stats cannot be lowered.",
+    pokemon: [
+      "Flannery & Torkoal"
+    ]
+  },
+  {
+    name: "Speeding Sun 2",
+    effect: "Quickly charges the move gauge when the weather is sunny.",
+    pokemon: [
+      "Gardenia & Roserade",
+      "Elesa & Zebstrika",
+      "",
+      "Grant & Amaura"
+    ]
+  },
+  {
+    name: "Sand Shelter",
+    effect: "Protects the Pokémon from damage from a sandstorm.",
+    pokemon: [
+      "Grant & Amaura"
+    ]
+  },
+  {
+    name: "Clearheaded",
+    effect: "Prevents the Pokémon from becoming confused.",
+    pokemon: [
+      "Hapu & Mudsdale"
+    ]
+  },
+  {
+    name: "First Aid 4",
+    effect: "Restores a bit of the Pokémon's HP once during battle when the Pokémon is in a pinch.",
+    pokemon: [
+      "Hau & Raichu (Alola Form)"
+    ]
+  },
+  {
+    name: "Flameproof",
+    effect: "Prevents the Pokémon from getting burned.",
+    pokemon: [
+      "Karen & Houndoom"
+    ]
+  },
+  {
+    name: "Unflappable",
+    effect: "Prevents the Pokémon from flinching.",
+    pokemon: [
+      "Korrina & Lucario",
+      "Kahili & Toucannon"
+    ]
+  },
+  {
+    name: "Endurance",
+    effect: "If the Pokémon enters battle with full HP, allows it to endure a single overwhelming attack with 1 HP left.",
+    pokemon: [
+      "Kris & Totodile",
+      "Tate & Solrock"
+    ]
+  },
+  {
+    name: "Water Shift",
+    effect: "Normal-type moves become Water-type moves.",
+    pokemon: [
+      "Kris & Totodile",
+      "Barry & Prinplup",
+      "Barry & Empoleon"
+    ]
+  },
+  {
+    name: "Dauntless",
+    effect: "Sp. Atk cannot be lowered.",
+    pokemon: [
+      "Liza & Lunatone",
+      "Flint & Infernape",
+      "Iris & Haxorus",
+      "Norman & Slaking",
+      "Shauntal & Chandelure"
+    ]
+  },
+  {
+    name: "Power Chain 3",
+    effect: "Powers up moves when unity bonus is in effect.",
+    pokemon: [
+      "Liza & Lunatone",
+      "Crasher Wake & Floatzel",
+      "Winona & Pelipper"
+    ]
+  },
+  {
+    name: "Stalwart",
+    effect: "Sp. Def cannot be lowered.",
+    pokemon: [
+      "Liza & Lunatone",
+      "Brock & Tyranitar",
+      "",
+      "Lt. Surge & Voltorb"
+    ]
+  },
+  {
+    name: "Last Word",
+    effect: "The Pokémon uses Explosion immediately before fainting.",
+    pokemon: [
+      "Lt. Surge & Voltorb"
+    ]
+  },
+  {
+    name: "Solar Shield",
+    effect: "The Pokémon is not affected by status conditions when the weather is sunny.",
+    pokemon: [
+      "Lyra & Chikorita",
+      "Candice & Abomasnow",
+      "Grant & Amaura",
+      "Marlon & Carracosta"
+    ]
+  },
+  {
+    name: "Unbending",
+    effect: "Defense cannot be lowered.",
+    pokemon: [
+      "Marlon & Carracosta",
+      "Lyra & Bayleef"
+    ]
+  },
+  {
+    name: "Gritty 5",
+    effect: "Powers up moves if the Pokémon is affected by a status condition.",
+    pokemon: [
+      "Marshal & Conkeldurr"
+    ]
+  },
+  {
+    name: "On the Ropes 3",
+    effect: "Reduces damage when the Pokémon is in a pinch and is hit by a physical attack.",
+    pokemon: [
+      "Maylene & Meditite",
+      "Rosa & Snivy",
+      "Rosa & Servine",
+      "Rosa & Serperior",
+      "Nanu & Persian (Alola Form)"
+    ]
+  },
+  {
+    name: "Critical Sting 1",
+    effect: "When a critical hit lands, raises the chance of making the target flinch, become confused, or become trapped with the additional effect of the move.",
+    pokemon: [
+      "Nanu & Persian (Alola Form)",
+      "Wikstrom & Aegislash (Blade Forme)"
+    ]
+  },
+  {
+    name: "Headstrong",
+    effect: "Attack cannot be lowered.",
+    pokemon: [
+      "Noland & Pinsir"
+    ]
+  },
+  {
+    name: "Unhindered",
+    effect: "When the Pokémon uses a move to attack, ignores the damage-reducing effects on the opponent's field of play.",
+    pokemon: [
+      "Noland & Pinsir (Mega Pinsir)",
+      "Pryce & Dewgong"
+    ]
+  },
+  {
+    name: "Pass It On",
+    effect: "Transfers half the amount of this sync pair's raised stats to the sync pair that will switch in when this sync pair faints.",
+    pokemon: [
+      "Phoebe & Dusclops"
+    ]
+  },
+  {
+    name: "Vigilance",
+    effect: "The Pokémon is protected against critical hits.",
+    pokemon: [
+      "Phoebe & Dusclops",
+      "Viola & Surskit",
+      "Viola & Masquerain"
+    ]
+  },
+  {
+    name: "Superduper Effective 2",
+    effect: "Powers up moves that are super effective.",
+    pokemon: [
+      "Pryce & Seel",
+      "Tate & Solrock",
+      "Ramos & Weepinbell",
+      "Korrina & Lucario (Mega Lucario)",
+      "Roxanne & Nosepass"
+    ]
+  },
+  {
+    name: "Defense Crush 2",
+    effect: "Occasionally lowers the target's Defense when an attack against it is successful.",
+    pokemon: [
+      "Ramos & Weepinbell",
+      "Korrina & Lucario (Mega Lucario)",
+      "Roxanne & Nosepass",
+      "Shauntal & Chandelure",
+      "Siebold & Clawitzer"
+    ]
+  },
+  {
+    name: "Surging Sand 5",
+    effect: "Powers up moves in a sandstorm.",
+    pokemon: [
+      "Roxanne & Nosepass",
+      "Shauntal & Chandelure",
+      "Siebold & Clawitzer",
+      "Wikstrom & Aegislash",
+      "Wikstrom & Aegislash (Blade Forme)"
+    ]
+  },
+  {
+    name: "Critical Focus 1",
+    effect: "Raises the Pokémon's critical-hit rate when it lands a critical hit.",
+    pokemon: [
+      "Siebold & Clawitzer",
+      "Wikstrom & Aegislash",
+      "Wikstrom & Aegislash (Blade Forme)",
+      "",
+      "Whitney & Miltank"
+    ]
+  },
+  {
+    name: "Mad Strength 2",
+    effect: "Occasionally raises the Pokémon's Attack when one of its attacks is successful.",
+    pokemon: [
+      "Whitney & Miltank",
+      "Kris & Croconaw",
+      "Kris & Feraligatr",
+      "Wikstrom & Aegislash",
+      "Agatha & Gengar (Mega Gengar)"
+    ]
+  },
+  {
+    name: "Stance Change",
+    effect: "Changes to Blade Forme when the Pokémon attacks. Changes to Shield Forme when the Pokémon uses King's Shield or switches out.",
+    pokemon: [
+      "Wikstrom & Aegislash",
+      "Agatha & Gengar (Mega Gengar)",
+      "Karen & Houndoom",
+      "Karen & Houndoom (Mega Houndoom)"
+    ]
+  }
+]

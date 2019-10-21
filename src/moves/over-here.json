@@ -1,1 +1,11 @@
-{"name":"Over Here!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"1","description":"Makes opponents target the user for a short time. Makes the user gradually heal itself.","skill_type":"Trainer"}
+{
+  "name": "Over Here!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "1",
+  "description": "Makes opponents target the user for a short time. Makes the user gradually heal itself.",
+  "skill_type": "Trainer"
+}

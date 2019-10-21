@@ -1,1 +1,13 @@
-{"name":"Sophocles","info":"This young Trainer serves as one of the captains of the Alola region. Despite his youthfulness, he is an awesome engineer who has invented many devices.","base_potential":4,"recruit_method":"Sync Pair Scout","pokemon_list":["Togedemaru"],"image":"Sophocles_1","sync_pair_story":["A Day with Sophocles"]}
+{
+  "name": "Sophocles",
+  "info": "This young Trainer serves as one of the captains of the Alola region. Despite his youthfulness, he is an awesome engineer who has invented many devices.",
+  "base_potential": 4,
+  "recruit_method": "Sync Pair Scout",
+  "pokemon_list": [
+    "Togedemaru"
+  ],
+  "image": "Sophocles_1",
+  "sync_pair_story": [
+    "A Day with Sophocles"
+  ]
+}

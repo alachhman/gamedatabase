@@ -1,1 +1,11 @@
-{"name":"Fire Spin","target":"An opponent","accuracy":"85","power":"38→45","type":"Fire","category":"Special","cost":2,"description":"Leaves the target trapped.","skill_type":"Pokemon"}
+{
+  "name": "Fire Spin",
+  "target": "An opponent",
+  "accuracy": "85",
+  "power": "38→45",
+  "type": "Fire",
+  "category": "Special",
+  "cost": 2,
+  "description": "Leaves the target trapped.",
+  "skill_type": "Pokemon"
+}

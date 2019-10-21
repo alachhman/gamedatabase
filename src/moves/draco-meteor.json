@@ -1,1 +1,11 @@
-{"name":"Draco Meteor","target":"An opponent","accuracy":"90","power":"136→163","type":"Dragon","category":"Special","cost":3,"description":"Sharply lowers the user’s Sp. Atk.","skill_type":"Pokemon"}
+{
+  "name": "Draco Meteor",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "136→163",
+  "type": "Dragon",
+  "category": "Special",
+  "cost": 3,
+  "description": "Sharply lowers the user’s Sp. Atk.",
+  "skill_type": "Pokemon"
+}

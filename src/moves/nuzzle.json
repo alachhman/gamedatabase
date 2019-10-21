@@ -1,1 +1,11 @@
-{"name":"Nuzzle","target":"An opponent","accuracy":"100","power":"20→24","type":"Electric","category":"Physical","cost":3,"description":"Leaves the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Nuzzle",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Electric",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Leaves the target paralyzed.",
+  "skill_type": "Pokemon"
+}

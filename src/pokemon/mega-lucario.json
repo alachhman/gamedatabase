@@ -1,1 +1,96 @@
-{"name":"Mega Lucario","type1":"Fighting","type2":"","weakness":"Fire","role":"Strike (Physical)","image":"pm0448_51_megalucario_256.ktx.png","stats":{"base":{"attack":13,"defense":5,"hp":62,"speed":15,"sp_atk":11,"sp_def":5},"max":{"attack":325,"bulk":313,"defense":99,"hp":362,"speed":165,"sp_atk":255,"sp_def":83}},"moves":[{"name":"Power-Up Punch","type":"Fighting","category":"Physical","power":{"min_power":30,"max_power":36},"accuracy":100,"target":"An opponent","cost":2,"uses":null,"effect":"Raises the user’s Attack.","unlock_requirements":[]},{"name":"Dire Hit","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"Self","cost":"","uses":2,"effect":"Sharply raises the user’s critical-hit rate.","unlock_requirements":[]},{"name":"Close Combat","type":"Fighting","category":"Physical","power":{"min_power":124,"max_power":148},"accuracy":100,"target":"An opponent","cost":3,"uses":null,"effect":"Lowers the user’s Defense and Sp. Def.","unlock_requirements":["Training Machine x5"]},{"name":"Skate On Through!","type":"","category":"Status Effect","power":{"min_power":0,"max_power":0},"accuracy":0,"target":"Self","cost":"","uses":2,"effect":"Raises the user’s Attack. Drastically raises the user’s Speed.","unlock_requirements":["Great Buff Blend x10","Ultra Buff Blend x3","Training Machine x30","Super Training Machine x5"]}]}
+{
+  "name": "Mega Lucario",
+  "type1": "Fighting",
+  "type2": "",
+  "weakness": "Fire",
+  "role": "Strike (Physical)",
+  "image": "pm0448_51_megalucario_256.ktx.png",
+  "stats": {
+    "base": {
+      "attack": 13,
+      "defense": 5,
+      "hp": 62,
+      "speed": 15,
+      "sp_atk": 11,
+      "sp_def": 5
+    },
+    "max": {
+      "attack": 325,
+      "bulk": 313,
+      "defense": 99,
+      "hp": 362,
+      "speed": 165,
+      "sp_atk": 255,
+      "sp_def": 83
+    }
+  },
+  "moves": [
+    {
+      "name": "Power-Up Punch",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": {
+        "min_power": 30,
+        "max_power": 36
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 2,
+      "uses": null,
+      "effect": "Raises the user’s Attack.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "Dire Hit",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "Self",
+      "cost": "",
+      "uses": 2,
+      "effect": "Sharply raises the user’s critical-hit rate.",
+      "unlock_requirements": []
+    },
+    {
+      "name": "Close Combat",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": {
+        "min_power": 124,
+        "max_power": 148
+      },
+      "accuracy": 100,
+      "target": "An opponent",
+      "cost": 3,
+      "uses": null,
+      "effect": "Lowers the user’s Defense and Sp. Def.",
+      "unlock_requirements": [
+        "Training Machine x5"
+      ]
+    },
+    {
+      "name": "Skate On Through!",
+      "type": "",
+      "category": "Status Effect",
+      "power": {
+        "min_power": 0,
+        "max_power": 0
+      },
+      "accuracy": 0,
+      "target": "Self",
+      "cost": "",
+      "uses": 2,
+      "effect": "Raises the user’s Attack. Drastically raises the user’s Speed.",
+      "unlock_requirements": [
+        "Great Buff Blend x10",
+        "Ultra Buff Blend x3",
+        "Training Machine x30",
+        "Super Training Machine x5"
+      ]
+    }
+  ]
+}

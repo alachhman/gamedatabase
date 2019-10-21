@@ -1,1 +1,11 @@
-{"name":"Flamethrower","target":"An opponent","accuracy":"100","power":"47→56","type":"Fire","category":"Special","cost":2,"description":"Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Flamethrower",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "47→56",
+  "type": "Fire",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a very small chance of leaving the target burned.",
+  "skill_type": "Pokemon"
+}

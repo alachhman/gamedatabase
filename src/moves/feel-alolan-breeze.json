@@ -1,1 +1,11 @@
-{"name":"Feel the Alolan Breeze!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Drastically raises the user’s Speed. Raises the user’s evasiveness.","skill_type":"Trainer"}
+{
+  "name": "Feel the Alolan Breeze!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Drastically raises the user’s Speed. Raises the user’s evasiveness.",
+  "skill_type": "Trainer"
+}
