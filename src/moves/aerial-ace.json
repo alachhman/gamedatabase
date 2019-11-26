@@ -1,1 +1,11 @@
-{"name":"Aerial Ace","target":"An opponent","accuracy":"0","power":"45→54","type":"Flying","category":"Physical","cost":2,"description":"Never misses.","skill_type":"Pokemon"}
+{
+  "name": "Aerial Ace",
+  "target": "An opponent",
+  "accuracy": "0",
+  "power": "45→54",
+  "type": "Flying",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Never misses.",
+  "skill_type": "Pokemon"
+}

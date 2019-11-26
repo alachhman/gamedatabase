@@ -1,1 +1,11 @@
-{"name":"Mirror Shot","target":"An opponent","accuracy":"85","power":"57→68","type":"Steel","category":"Special","cost":2,"description":"Has a moderate chance of lowering the target’s accuracy.","skill_type":"Pokemon"}
+{
+  "name": "Mirror Shot",
+  "target": "An opponent",
+  "accuracy": "85",
+  "power": "57→68",
+  "type": "Steel",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a moderate chance of lowering the target’s accuracy.",
+  "skill_type": "Pokemon"
+}

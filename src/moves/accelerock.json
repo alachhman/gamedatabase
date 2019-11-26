@@ -1,1 +1,11 @@
-{"name":"Accelerock","target":"An opponent","accuracy":"100","power":"75→90","type":"Rock","category":"Physical","cost":0,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Accelerock",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "75→90",
+  "type": "Rock",
+  "category": "Physical",
+  "cost": 0,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

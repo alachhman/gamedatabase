@@ -1,1 +1,11 @@
-{"name":"Cross Chop","target":"An opponent","accuracy":"80","power":"100→120","type":"Fighting","category":"Physical","cost":3,"description":"Critical hits land more easily.","skill_type":"Pokemon"}
+{
+  "name": "Cross Chop",
+  "target": "An opponent",
+  "accuracy": "80",
+  "power": "100→120",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Critical hits land more easily.",
+  "skill_type": "Pokemon"
+}

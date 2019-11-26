@@ -1,1 +1,11 @@
-{"name":"Hex","target":"An opponent","accuracy":"100","power":"38→45","type":"Ghost","category":"Special","cost":2,"description":"Its power is doubled if the target is affected by a status condition.","skill_type":"Pokemon"}
+{
+  "name": "Hex",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "38→45",
+  "type": "Ghost",
+  "category": "Special",
+  "cost": 2,
+  "description": "Its power is doubled if the target is affected by a status condition.",
+  "skill_type": "Pokemon"
+}

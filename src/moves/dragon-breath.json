@@ -1,1 +1,11 @@
-{"name":"Dragon Breath","target":"An opponent","accuracy":"100","power":"42→50","type":"Dragon","category":"Special","cost":2,"description":"Has a moderate chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Dragon Breath",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "42→50",
+  "type": "Dragon",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a moderate chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

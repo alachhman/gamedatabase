@@ -1,1 +1,11 @@
-{"name":"Light Screen","target":"Allied side","accuracy":"0","power":"0→0","type":"Psychic","category":"Status%20Effect","cost":3,"description":"Reduces special damage done to the allied field of play.","skill_type":"Pokemon"}
+{
+  "name": "Light Screen",
+  "target": "Allied side",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "Psychic",
+  "category": "Status%20Effect",
+  "cost": 3,
+  "description": "Reduces special damage done to the allied field of play.",
+  "skill_type": "Pokemon"
+}

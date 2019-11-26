@@ -1,1 +1,11 @@
-{"name":"Crunch","target":"An opponent","accuracy":"100","power":"99→118","type":"Dark","category":"Physical","cost":3,"description":"Has a small chance of lowering the target’s Defense.","skill_type":"Pokemon"}
+{
+  "name": "Crunch",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "99→118",
+  "type": "Dark",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a small chance of lowering the target’s Defense.",
+  "skill_type": "Pokemon"
+}

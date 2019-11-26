@@ -1,1 +1,5 @@
-{"name":"Replay Ticket","image":"Replay Ticket_0","description":"Used to grant another attempt at area information that you’ve run out of attempts for."}
+{
+  "name": "Replay Ticket",
+  "image": "Replay Ticket_0",
+  "description": "Used to grant another attempt at area information that you’ve run out of attempts for."
+}

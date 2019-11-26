@@ -1,1 +1,11 @@
-{"name":"Body Slam","target":"An opponent","accuracy":"100","power":"53→63","type":"Normal","category":"Physical","cost":2,"description":"Has a moderate chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Body Slam",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "53→63",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a moderate chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

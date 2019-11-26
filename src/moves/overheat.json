@@ -1,1 +1,11 @@
-{"name":"Overheat","target":"An opponent","accuracy":"90","power":"136→163","type":"Fire","category":"Special","cost":3,"description":"Sharply lowers the user’s Sp. Atk.","skill_type":"Pokemon"}
+{
+  "name": "Overheat",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "136→163",
+  "type": "Fire",
+  "category": "Special",
+  "cost": 3,
+  "description": "Sharply lowers the user’s Sp. Atk.",
+  "skill_type": "Pokemon"
+}

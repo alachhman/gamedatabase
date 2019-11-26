@@ -1,1 +1,11 @@
-{"name":"Surf","target":"All opponents","accuracy":"100","power":"100→120","type":"Water","category":"Special","cost":3,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Surf",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "100→120",
+  "type": "Water",
+  "category": "Special",
+  "cost": 3,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

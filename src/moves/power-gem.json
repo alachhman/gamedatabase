@@ -1,1 +1,11 @@
-{"name":"Power Gem","target":"An opponent","accuracy":"100","power":"100→120","type":"Rock","category":"Special","cost":3,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Power Gem",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "100→120",
+  "type": "Rock",
+  "category": "Special",
+  "cost": 3,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

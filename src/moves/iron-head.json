@@ -1,1 +1,11 @@
-{"name":"Iron Head","target":"An opponent","accuracy":"100","power":"92→110","type":"Steel","category":"Physical","cost":3,"description":"Has a moderate chance of making the target flinch.","skill_type":"Pokemon"}
+{
+  "name": "Iron Head",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "92→110",
+  "type": "Steel",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a moderate chance of making the target flinch.",
+  "skill_type": "Pokemon"
+}

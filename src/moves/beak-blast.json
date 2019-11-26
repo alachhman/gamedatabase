@@ -1,1 +1,11 @@
-{"name":"Beak Blast","target":"An opponent","accuracy":"100","power":"75→90","type":"Flying","category":"Physical","cost":2,"description":"The user gets ready to counterattack. Using this move again will cause the user to attack. No other actions can be taken while ready to counterattack. The user will attack if attacked while ready to counterattack. Leaves opponents burned when they use physical attacks on the user while it is ready to counterattack.","skill_type":"Pokemon"}
+{
+  "name": "Beak Blast",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "75→90",
+  "type": "Flying",
+  "category": "Physical",
+  "cost": 2,
+  "description": "The user gets ready to counterattack. Using this move again will cause the user to attack. No other actions can be taken while ready to counterattack. The user will attack if attacked while ready to counterattack. Leaves opponents burned when they use physical attacks on the user while it is ready to counterattack.",
+  "skill_type": "Pokemon"
+}

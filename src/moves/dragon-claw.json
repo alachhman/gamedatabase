@@ -1,1 +1,11 @@
-{"name":"Dragon Claw","target":"An opponent","accuracy":"100","power":"50→60","type":"Dragon","category":"Physical","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Dragon Claw",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "50→60",
+  "type": "Dragon",
+  "category": "Physical",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

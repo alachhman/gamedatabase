@@ -1,1 +1,11 @@
-{"name":"A Tale of Triumph!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Drastically raises the user’s Speed. Sharply raises the user’s evasiveness. Leaves the user burned.","skill_type":"Trainer"}
+{
+  "name": "A Tale of Triumph!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Drastically raises the user’s Speed. Sharply raises the user’s evasiveness. Leaves the user burned.",
+  "skill_type": "Trainer"
+}

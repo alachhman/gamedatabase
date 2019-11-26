@@ -1,1 +1,11 @@
-{"name":"Poison Sting","target":"An opponent","accuracy":"100","power":"12→14","type":"Poison","category":"Physical","cost":1,"description":"Has a moderate chance of leaving the target poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Poison Sting",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "12→14",
+  "type": "Poison",
+  "category": "Physical",
+  "cost": 1,
+  "description": "Has a moderate chance of leaving the target poisoned.",
+  "skill_type": "Pokemon"
+}

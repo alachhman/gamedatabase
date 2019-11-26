@@ -1,1 +1,11 @@
-{"name":"Double-Edge","target":"An opponent","accuracy":"100","power":"167→200","type":"Normal","category":"Physical","cost":3,"description":"The user also takes 25% of the damage it dealt to the target.","skill_type":"Pokemon"}
+{
+  "name": "Double-Edge",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "167→200",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 3,
+  "description": "The user also takes 25% of the damage it dealt to the target.",
+  "skill_type": "Pokemon"
+}

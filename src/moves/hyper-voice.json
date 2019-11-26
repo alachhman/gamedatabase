@@ -1,1 +1,11 @@
-{"name":"Hyper Voice","target":"All opponents","accuracy":"100","power":"63→75","type":"Normal","category":"Special","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Hyper Voice",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "63→75",
+  "type": "Normal",
+  "category": "Special",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

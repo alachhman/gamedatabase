@@ -1,1 +1,11 @@
-{"name":"Mega Kick","target":"An opponent","accuracy":"75","power":"167→200","type":"Normal","category":"Physical","cost":3,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Mega Kick",
+  "target": "An opponent",
+  "accuracy": "75",
+  "power": "167→200",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 3,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

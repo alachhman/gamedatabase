@@ -1,1 +1,11 @@
-{"name":"Discharge","target":"All opponents","accuracy":"100","power":"92→110","type":"Electric","category":"Special","cost":3,"description":"Has a moderate chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Discharge",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "92→110",
+  "type": "Electric",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a moderate chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

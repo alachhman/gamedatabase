@@ -1,1 +1,11 @@
-{"name":"Venoshock","target":"An opponent","accuracy":"100","power":"42→50","type":"Poison","category":"Special","cost":2,"description":"Its power is doubled if the target is poisoned or badly poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Venoshock",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "42→50",
+  "type": "Poison",
+  "category": "Special",
+  "cost": 2,
+  "description": "Its power is doubled if the target is poisoned or badly poisoned.",
+  "skill_type": "Pokemon"
+}

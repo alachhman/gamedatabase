@@ -1,1 +1,11 @@
-{"name":"Karate Chop","target":"An opponent","accuracy":"100","power":"16→19","type":"Fighting","category":"Physical","cost":1,"description":"Critical hits land more easily.","skill_type":"Pokemon"}
+{
+  "name": "Karate Chop",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "16→19",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 1,
+  "description": "Critical hits land more easily.",
+  "skill_type": "Pokemon"
+}

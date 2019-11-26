@@ -1,1 +1,11 @@
-{"name":"Flash Cannon","target":"An opponent","accuracy":"100","power":"99→118","type":"Steel","category":"Special","cost":3,"description":"Has a very small chance of lowering the target’s Sp. Def.","skill_type":"Pokemon"}
+{
+  "name": "Flash Cannon",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "99→118",
+  "type": "Steel",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a very small chance of lowering the target’s Sp. Def.",
+  "skill_type": "Pokemon"
+}

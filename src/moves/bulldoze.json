@@ -1,1 +1,11 @@
-{"name":"Bulldoze","target":"All opponents","accuracy":"100","power":"80→96","type":"Ground","category":"Physical","cost":3,"description":"Lowers the target’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Bulldoze",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "80→96",
+  "type": "Ground",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Lowers the target’s Speed.",
+  "skill_type": "Pokemon"
+}

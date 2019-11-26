@@ -1,1 +1,11 @@
-{"name":"Lick","target":"An opponent","accuracy":"100","power":"12→14","type":"Ghost","category":"Physical","cost":1,"description":"Has a moderate chance of leaving the target paralyzed.","skill_type":"Pokemon"}
+{
+  "name": "Lick",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "12→14",
+  "type": "Ghost",
+  "category": "Physical",
+  "cost": 1,
+  "description": "Has a moderate chance of leaving the target paralyzed.",
+  "skill_type": "Pokemon"
+}

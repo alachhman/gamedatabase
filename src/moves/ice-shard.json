@@ -1,1 +1,11 @@
-{"name":"Ice Shard","target":"An opponent","accuracy":"100","power":"20→24","type":"Ice","category":"Physical","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Ice Shard",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Ice",
+  "category": "Physical",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

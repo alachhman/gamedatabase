@@ -9,7 +9,7 @@ const getPokemonMastersPokemonList = async () => {
         "https://gamepress.gg/sites/default/files/aggregatedjson/PokemonMastersPokemonList.json"
     );
 
-    json.data.forEach(async function(pokemon){
+    json.data.forEach(async function (pokemon) {
         let name = pokemon.title_plain
             .split("&amp;")
             .pop()
@@ -143,7 +143,7 @@ const getPokemonMastersPokemonList = async () => {
         passivesDom.each(function () {
             passives.push({
                 name: $(this).find(".passive-title").text(),
-                description: $(this).find(".passive-skill-effect").text().replace("\n","").replace("\n","")
+                description: $(this).find(".passive-skill-effect").text().replace("\n", "").replace("\n", "")
             })
         });
 

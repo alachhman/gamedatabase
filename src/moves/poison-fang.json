@@ -1,1 +1,11 @@
-{"name":"Poison Fang","target":"An opponent","accuracy":"100","power":"34→40","type":"Poison","category":"Physical","cost":2,"description":"Has a good chance of leaving the target badly poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Poison Fang",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "34→40",
+  "type": "Poison",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a good chance of leaving the target badly poisoned.",
+  "skill_type": "Pokemon"
+}

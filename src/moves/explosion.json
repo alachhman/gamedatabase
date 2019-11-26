@@ -1,1 +1,11 @@
-{"name":"Explosion","target":"All opponents","accuracy":"100","power":"350→420","type":"Normal","category":"Physical","cost":3,"description":"The user faints after using it.","skill_type":"Pokemon"}
+{
+  "name": "Explosion",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "350→420",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 3,
+  "description": "The user faints after using it.",
+  "skill_type": "Pokemon"
+}

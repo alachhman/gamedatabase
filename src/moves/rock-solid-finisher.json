@@ -1,1 +1,11 @@
-{"name":"Rock-Solid Finisher!","target":"Self","accuracy":"0","power":"0→0","type":"","category":"Status%20Effect","cost":"2","description":"Raises the user’s Defense. Makes the user’s next attack a sure hit and a critical hit.","skill_type":"Trainer"}
+{
+  "name": "Rock-Solid Finisher!",
+  "target": "Self",
+  "accuracy": "0",
+  "power": "0→0",
+  "type": "",
+  "category": "Status%20Effect",
+  "cost": "2",
+  "description": "Raises the user’s Defense. Makes the user’s next attack a sure hit and a critical hit.",
+  "skill_type": "Trainer"
+}

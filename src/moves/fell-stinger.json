@@ -1,1 +1,11 @@
-{"name":"Fell Stinger","target":"An opponent","accuracy":"100","power":"44→52","type":"Bug","category":"Physical","cost":2,"description":"Drastically raises the user’s Attack when it knocks out a target with this move.","skill_type":"Pokemon"}
+{
+  "name": "Fell Stinger",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "44→52",
+  "type": "Bug",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Drastically raises the user’s Attack when it knocks out a target with this move.",
+  "skill_type": "Pokemon"
+}

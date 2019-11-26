@@ -1,1 +1,11 @@
-{"name":"Sludge Wave","target":"All opponents","accuracy":"100","power":"97→116","type":"Poison","category":"Special","cost":3,"description":"Has a very small chance of leaving the target poisoned.","skill_type":"Pokemon"}
+{
+  "name": "Sludge Wave",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "97→116",
+  "type": "Poison",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a very small chance of leaving the target poisoned.",
+  "skill_type": "Pokemon"
+}

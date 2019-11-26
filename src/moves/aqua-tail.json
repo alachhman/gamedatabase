@@ -1,1 +1,11 @@
-{"name":"Aqua Tail","target":"An opponent","accuracy":"90","power":"56→67","type":"Water","category":"Physical","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Aqua Tail",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "56→67",
+  "type": "Water",
+  "category": "Physical",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

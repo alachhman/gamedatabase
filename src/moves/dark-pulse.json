@@ -1,1 +1,11 @@
-{"name":"Dark Pulse","target":"An opponent","accuracy":"100","power":"95→114","type":"Dark","category":"Special","cost":3,"description":"Has a small chance of making the target flinch.","skill_type":"Pokemon"}
+{
+  "name": "Dark Pulse",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "95→114",
+  "type": "Dark",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a small chance of making the target flinch.",
+  "skill_type": "Pokemon"
+}

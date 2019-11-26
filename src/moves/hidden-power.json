@@ -1,1 +1,11 @@
-{"name":"Hidden Power","target":"An opponent","accuracy":"100","power":"50→60","type":"Psychic","category":"Special","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Hidden Power",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "50→60",
+  "type": "Psychic",
+  "category": "Special",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

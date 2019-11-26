@@ -1,1 +1,11 @@
-{"name":"Hyper Beam","target":"An opponent","accuracy":"90","power":"223→267","type":"Normal","category":"Special","cost":0,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Hyper Beam",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "223→267",
+  "type": "Normal",
+  "category": "Special",
+  "cost": 0,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

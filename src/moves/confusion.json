@@ -1,1 +1,11 @@
-{"name":"Confusion","target":"An opponent","accuracy":"100","power":"18→21","type":"Psychic","category":"Special","cost":1,"description":"Has a very small chance of leaving the target confused.","skill_type":"Pokemon"}
+{
+  "name": "Confusion",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "18→21",
+  "type": "Psychic",
+  "category": "Special",
+  "cost": 1,
+  "description": "Has a very small chance of leaving the target confused.",
+  "skill_type": "Pokemon"
+}

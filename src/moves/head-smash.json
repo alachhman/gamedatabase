@@ -1,1 +1,11 @@
-{"name":"Head Smash","target":"An opponent","accuracy":"80","power":"188→225","type":"Rock","category":"Physical","cost":3,"description":"The user also takes 33% of the damage it dealt to the target.","skill_type":"Pokemon"}
+{
+  "name": "Head Smash",
+  "target": "An opponent",
+  "accuracy": "80",
+  "power": "188→225",
+  "type": "Rock",
+  "category": "Physical",
+  "cost": 3,
+  "description": "The user also takes 33% of the damage it dealt to the target.",
+  "skill_type": "Pokemon"
+}

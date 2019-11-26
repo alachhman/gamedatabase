@@ -1,1 +1,11 @@
-{"name":"Peck","target":"An opponent","accuracy":"100","power":"20→24","type":"Flying","category":"Physical","cost":1,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Peck",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "20→24",
+  "type": "Flying",
+  "category": "Physical",
+  "cost": 1,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

@@ -1,1 +1,11 @@
-{"name":"Brick Break","target":"An opponent","accuracy":"100","power":"35→42","type":"Fighting","category":"Physical","cost":2,"description":"Removes physical and special damage-reducing effects from the opponents’ field of play.","skill_type":"Pokemon"}
+{
+  "name": "Brick Break",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "35→42",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Removes physical and special damage-reducing effects from the opponents’ field of play.",
+  "skill_type": "Pokemon"
+}

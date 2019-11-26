@@ -1,1 +1,11 @@
-{"name":"Heat Wave","target":"All opponents","accuracy":"90","power":"109→130","type":"Fire","category":"Special","cost":3,"description":"Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Heat Wave",
+  "target": "All opponents",
+  "accuracy": "90",
+  "power": "109→130",
+  "type": "Fire",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a very small chance of leaving the target burned.",
+  "skill_type": "Pokemon"
+}

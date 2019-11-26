@@ -1,6 +1,26 @@
 module.exports = {
     trainerData: [
         {
+            "Trainer": "Grimsley",
+            "Base Potential": "",
+            "Pokemon": "Grimsely & Liepard"
+        },
+        {
+            "Trainer": "Siebold-0",
+            "Base Potential": "",
+            "Pokemon": "Siebold & Octillery"
+        },
+        {
+            "Trainer": "Christmas-Rosa",
+            "Base Potential": "",
+            "Pokemon": "Rosa & Delibird"
+        },
+        {
+            "Trainer": "Giovanni",
+            "Base Potential": "",
+            "Pokemon": "Giovanni & Mewtwo"
+        },
+        {
             "Trainer": "Elesa",
             "Base Potential": "",
             "Pokemon": "Elesa & Zebstrika"

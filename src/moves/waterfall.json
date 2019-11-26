@@ -1,1 +1,11 @@
-{"name":"Waterfall","target":"An opponent","accuracy":"100","power":"45→54","type":"Water","category":"Physical","cost":2,"description":"Has a small chance of making the target flinch.","skill_type":"Pokemon"}
+{
+  "name": "Waterfall",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "45→54",
+  "type": "Water",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a small chance of making the target flinch.",
+  "skill_type": "Pokemon"
+}

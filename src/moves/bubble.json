@@ -1,1 +1,11 @@
-{"name":"Bubble","target":"All opponents","accuracy":"100","power":"19→22","type":"Water","category":"Special","cost":1,"description":"Has a very small chance of lowering the target’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Bubble",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "19→22",
+  "type": "Water",
+  "category": "Special",
+  "cost": 1,
+  "description": "Has a very small chance of lowering the target’s Speed.",
+  "skill_type": "Pokemon"
+}

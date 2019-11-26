@@ -1,1 +1,11 @@
-{"name":"Mud-Slap","target":"An opponent","accuracy":"90","power":"13→15","type":"Ground","category":"Special","cost":1,"description":"Lowers the target’s accuracy.","skill_type":"Pokemon"}
+{
+  "name": "Mud-Slap",
+  "target": "An opponent",
+  "accuracy": "90",
+  "power": "13→15",
+  "type": "Ground",
+  "category": "Special",
+  "cost": 1,
+  "description": "Lowers the target’s accuracy.",
+  "skill_type": "Pokemon"
+}

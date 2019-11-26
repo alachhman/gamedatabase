@@ -1,1 +1,11 @@
-{"name":"Liquidation","target":"An opponent","accuracy":"100","power":"99→118","type":"Water","category":"Physical","cost":3,"description":"Has a small chance of lowering the target’s Defense.","skill_type":"Pokemon"}
+{
+  "name": "Liquidation",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "99→118",
+  "type": "Water",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Has a small chance of lowering the target’s Defense.",
+  "skill_type": "Pokemon"
+}

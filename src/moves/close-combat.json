@@ -1,1 +1,11 @@
-{"name":"Close Combat","target":"An opponent","accuracy":"100","power":"124→148","type":"Fighting","category":"Physical","cost":3,"description":"Lowers the user’s Defense and Sp. Def.","skill_type":"Pokemon"}
+{
+  "name": "Close Combat",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "124→148",
+  "type": "Fighting",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Lowers the user’s Defense and Sp. Def.",
+  "skill_type": "Pokemon"
+}

@@ -1,1 +1,11 @@
-{"name":"Acid","target":"All opponents","accuracy":"100","power":"19→22","type":"Poison","category":"Special","cost":1,"description":"Has a very small chance of lowering the target’s Sp. Def.","skill_type":"Pokemon"}
+{
+  "name": "Acid",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "19→22",
+  "type": "Poison",
+  "category": "Special",
+  "cost": 1,
+  "description": "Has a very small chance of lowering the target’s Sp. Def.",
+  "skill_type": "Pokemon"
+}

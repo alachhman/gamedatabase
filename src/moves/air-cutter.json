@@ -1,1 +1,11 @@
-{"name":"Air Cutter","target":"All opponents","accuracy":"95","power":"43→51","type":"Flying","category":"Special","cost":2,"description":"Critical hits land more easily.","skill_type":"Pokemon"}
+{
+  "name": "Air Cutter",
+  "target": "All opponents",
+  "accuracy": "95",
+  "power": "43→51",
+  "type": "Flying",
+  "category": "Special",
+  "cost": 2,
+  "description": "Critical hits land more easily.",
+  "skill_type": "Pokemon"
+}

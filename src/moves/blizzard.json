@@ -1,1 +1,11 @@
-{"name":"Blizzard","target":"All opponents","accuracy":"70","power":"126→151","type":"Ice","category":"Special","cost":3,"description":"Never misses during a hailstorm. Has a very small chance of leaving the target frozen.","skill_type":"Pokemon"}
+{
+  "name": "Blizzard",
+  "target": "All opponents",
+  "accuracy": "70",
+  "power": "126→151",
+  "type": "Ice",
+  "category": "Special",
+  "cost": 3,
+  "description": "Never misses during a hailstorm. Has a very small chance of leaving the target frozen.",
+  "skill_type": "Pokemon"
+}

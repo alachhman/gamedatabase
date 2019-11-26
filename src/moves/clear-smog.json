@@ -1,1 +1,11 @@
-{"name":"Clear Smog","target":"An opponent","accuracy":"0","power":"63→75","type":"Poison","category":"Special","cost":2,"description":"Never misses. Returns the target’s raised stats to normal.","skill_type":"Pokemon"}
+{
+  "name": "Clear Smog",
+  "target": "An opponent",
+  "accuracy": "0",
+  "power": "63→75",
+  "type": "Poison",
+  "category": "Special",
+  "cost": 2,
+  "description": "Never misses. Returns the target’s raised stats to normal.",
+  "skill_type": "Pokemon"
+}

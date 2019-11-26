@@ -1,1 +1,11 @@
-{"name":"Facade","target":"An opponent","accuracy":"100","power":"47→56","type":"Normal","category":"Physical","cost":2,"description":"Its power is doubled when the user is poisoned, badly poisoned, paralyzed, or burned. Ignores lowered Attack from burns.","skill_type":"Pokemon"}
+{
+  "name": "Facade",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "47→56",
+  "type": "Normal",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Its power is doubled when the user is poisoned, badly poisoned, paralyzed, or burned. Ignores lowered Attack from burns.",
+  "skill_type": "Pokemon"
+}

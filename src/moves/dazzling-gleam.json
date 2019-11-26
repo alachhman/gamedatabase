@@ -1,1 +1,11 @@
-{"name":"Dazzling Gleam","target":"All opponents","accuracy":"100","power":"50→60","type":"Fairy","category":"Special","cost":2,"description":"No additional effect.","skill_type":"Pokemon"}
+{
+  "name": "Dazzling Gleam",
+  "target": "All opponents",
+  "accuracy": "100",
+  "power": "50→60",
+  "type": "Fairy",
+  "category": "Special",
+  "cost": 2,
+  "description": "No additional effect.",
+  "skill_type": "Pokemon"
+}

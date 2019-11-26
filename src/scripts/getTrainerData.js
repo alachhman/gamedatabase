@@ -13,9 +13,14 @@ const getTrainerData = async () => {
         );
         const $ = cheerio.load(trainerUri.data);
 
+        console.log(trainer.Trainer + " is being written.");
+
         const description = $('div.trainer-description').text();
 
-        const base_potential_src = $('td.base-potential-image > img').attr("src");
+        let base_potential_src = $('#sync-pair-table > tbody > tr:nth-child(2) > td').attr("src");
+        if (base_potential_src === undefined) {
+            base_potential_src = "5-star";
+        }
         let base_potential;
         if (base_potential_src.includes("5-star")) {
             base_potential = 5;
@@ -35,9 +40,9 @@ const getTrainerData = async () => {
             pokemon_list: trainer.Pokemon.split("     ")
         };
 
-      let objectString = JSON.stringify(object);
-      fs.writeFileSync(trainerFolder + trainer.Trainer + ".json", objectString);
-      console.log(object.name + " has been written");
+        let objectString = JSON.stringify(object);
+        fs.writeFileSync(trainerFolder + trainer.Trainer + ".json", objectString);
+        console.log(object.name + " has been written");
     }
 };
 

@@ -1,1 +1,11 @@
-{"name":"Fire Blast","target":"An opponent","accuracy":"85","power":"116→139","type":"Fire","category":"Special","cost":3,"description":"Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Fire Blast",
+  "target": "An opponent",
+  "accuracy": "85",
+  "power": "116→139",
+  "type": "Fire",
+  "category": "Special",
+  "cost": 3,
+  "description": "Has a very small chance of leaving the target burned.",
+  "skill_type": "Pokemon"
+}

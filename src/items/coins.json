@@ -1,1 +1,5 @@
-{"name":"Coins","image":"Coins_0","description":"Can be used in the shop to buy items."}
+{
+  "name": "Coins",
+  "image": "Coins_0",
+  "description": "Can be used in the shop to buy items."
+}

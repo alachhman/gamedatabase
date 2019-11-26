@@ -1,1 +1,11 @@
-{"name":"Gyro Ball","target":"An opponent","accuracy":"100","power":"44→52","type":"Steel","category":"Physical","cost":2,"description":"Its power is doubled if the target’s Speed has risen.","skill_type":"Pokemon"}
+{
+  "name": "Gyro Ball",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "44→52",
+  "type": "Steel",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Its power is doubled if the target’s Speed has risen.",
+  "skill_type": "Pokemon"
+}

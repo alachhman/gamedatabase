@@ -1,1 +1,11 @@
-{"name":"Stone Edge","target":"An opponent","accuracy":"80","power":"100→120","type":"Rock","category":"Physical","cost":3,"description":"Critical hits land more easily.","skill_type":"Pokemon"}
+{
+  "name": "Stone Edge",
+  "target": "An opponent",
+  "accuracy": "80",
+  "power": "100→120",
+  "type": "Rock",
+  "category": "Physical",
+  "cost": 3,
+  "description": "Critical hits land more easily.",
+  "skill_type": "Pokemon"
+}

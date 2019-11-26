@@ -28,7 +28,7 @@ if (base_potential_src.includes("5-star")) {
 }
 
 var allTh = document.querySelectorAll("th");
-allTh.forEach(function(th) {
+allTh.forEach(function (th) {
     if (th.innerHTML === "Recruit Method") {
         if (th.nextElementSibling.innerHTML === "") {
             recruit_method = "";
@@ -39,14 +39,14 @@ allTh.forEach(function(th) {
 });
 
 var sync_pair_story_title = document.querySelectorAll(".taxonomy-title");
-sync_pair_story_title.forEach(function(node) {
+sync_pair_story_title.forEach(function (node) {
     sync_pair_story.push(node.querySelector("a").innerHTML);
 });
 
 var pokemon_trainer_node_pokemon_title = document.querySelectorAll(
     ".pokemon-trainer-node-pokemon-title"
 );
-pokemon_trainer_node_pokemon_title.forEach(function(node) {
+pokemon_trainer_node_pokemon_title.forEach(function (node) {
     pokemon_list.push(node.innerHTML.split("amp; ").pop());
 });
 

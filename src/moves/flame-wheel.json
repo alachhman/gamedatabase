@@ -1,1 +1,11 @@
-{"name":"Flame Wheel","target":"An opponent","accuracy":"100","power":"42→50","type":"Fire","category":"Physical","cost":2,"description":"Unfreezes the user. Has a very small chance of leaving the target burned.","skill_type":"Pokemon"}
+{
+  "name": "Flame Wheel",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "42→50",
+  "type": "Fire",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Unfreezes the user. Has a very small chance of leaving the target burned.",
+  "skill_type": "Pokemon"
+}

@@ -1,1 +1,11 @@
-{"name":"Bubble Beam","target":"An opponent","accuracy":"100","power":"49→58","type":"Water","category":"Special","cost":2,"description":"Has a very small chance of lowering the target’s Speed.","skill_type":"Pokemon"}
+{
+  "name": "Bubble Beam",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "49→58",
+  "type": "Water",
+  "category": "Special",
+  "cost": 2,
+  "description": "Has a very small chance of lowering the target’s Speed.",
+  "skill_type": "Pokemon"
+}

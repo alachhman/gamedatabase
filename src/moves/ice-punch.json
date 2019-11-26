@@ -1,1 +1,11 @@
-{"name":"Ice Punch","target":"An opponent","accuracy":"100","power":"46→55","type":"Ice","category":"Physical","cost":2,"description":"Has a very small chance of leaving the target frozen.","skill_type":"Pokemon"}
+{
+  "name": "Ice Punch",
+  "target": "An opponent",
+  "accuracy": "100",
+  "power": "46→55",
+  "type": "Ice",
+  "category": "Physical",
+  "cost": 2,
+  "description": "Has a very small chance of leaving the target frozen.",
+  "skill_type": "Pokemon"
+}

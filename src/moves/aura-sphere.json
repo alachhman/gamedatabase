@@ -1,1 +1,11 @@
-{"name":"Aura Sphere","target":"An opponent","accuracy":"0","power":"45→54","type":"Fighting","category":"Special","cost":2,"description":"Never misses.","skill_type":"Pokemon"}
+{
+  "name": "Aura Sphere",
+  "target": "An opponent",
+  "accuracy": "0",
+  "power": "45→54",
+  "type": "Fighting",
+  "category": "Special",
+  "cost": 2,
+  "description": "Never misses.",
+  "skill_type": "Pokemon"
+}
