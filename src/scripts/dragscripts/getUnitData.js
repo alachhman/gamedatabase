@@ -3,10 +3,13 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 log = console.log;
 
-const getDragaliaUnits = async () => {
+async function getDragaliaUnits(){
     let json = await axios.get(
         "https://gamepress.gg/sites/default/files/aggregatedjson/DragaliaLostCharacterList.json?1581181076155443736"
     );
+
+    let unitArr = [];
+
     const unitList = json.data.map(async (unit) => {
         let html = await axios.get(
             "https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">"))
@@ -21,13 +24,13 @@ const getDragaliaUnits = async () => {
         const cv = [cvTemp[1], cvTemp[2]];
 
         const abilities = [];
-        $('.view.view-ability-on-character-page > div > div > div > span > table > tbody').each((i, skillTable) => {
+        $('.view.view-ability-on-character-page > div > div > div > span > table > tbody').each((i, abilityTable) => {
             const abilitiesTemp = [];
-            $(skillTable).find('.ability-info').each((i, skill) => {
+            $(abilityTable).find('.ability-info').each((i, ability) => {
                 abilitiesTemp.push(
                     {
-                        name: $(skill).find('> b > a').text(),
-                        effect: $(skill).find('> .ability-effect').text().replace("\n", ""),
+                        name: $(ability).find('> b > a').text(),
+                        effect: $(ability).find('> .ability-effect').text().replace("\n", ""),
                     }
                 )
             });
@@ -37,7 +40,8 @@ const getDragaliaUnits = async () => {
         const skills = [];
         $('.view.view-skills-on-character > div > div > div > span').each((i, skill) => {
             const name = $(skill).find('.skill-main-title > td > b > a').text();
-            const cost = $(skill).find('.skill-extra-data > tbody > tr > td:nth-child(2)').text();
+            const cost = $(skill).find('.skill-extra-data > tbody > tr:nth-child(1) > td:nth-child(2)').text();
+            const regenCost = $(skill).find('.skill-extra-data > tbody > tr:nth-child(2) > td').text();
             const iframe = $(skill).find('.skill-extra-data > tbody > tr > td:nth-child(4)').text();
             const levels = [];
             $(skill).find('table').each((i, table) => {
@@ -58,9 +62,20 @@ const getDragaliaUnits = async () => {
                 name: name,
                 levels: levels,
                 cost: cost,
+                regen: (regenCost === '') ? "None" : regenCost,
                 iframe: iframe
             });
         });
+
+        const coabUpgrades = [];
+        $('.view.view-co-ability-on-character-page > div > table > tbody > tr').each((i, upgrade) => {
+            coabUpgrades.push($(upgrade).find('td > p').text());
+        });
+        const coability = {
+            name: $('.co-ability-info > a').text(),
+            baseEffect: $('.co-ability-effect').text().replace('\n', ''),
+            upgrades: coabUpgrades,
+        };
 
         const rarity = unit.rarity_num;
         const element = unit.char_element;
@@ -81,15 +96,16 @@ const getDragaliaUnits = async () => {
             role: role,
             atk: atk,
             hp: hp,
+            coability: coability,
             abilities: abilities,
             skills: skills
         };
 
-        if(name === "Marth"){console.dir(adventurer, {depth: null, colors: true})}
+        console.dir(adventurer, {depth: 5, colors: true})
+        console.log(',')
     });
 };
 
 getDragaliaUnits().then(() => console.log("Starting."));
-
 
 
