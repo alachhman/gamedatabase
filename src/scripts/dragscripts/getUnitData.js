@@ -12,7 +12,7 @@ async function getDragaliaUnits(){
         let html = await axios.get(
             "https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">"))
         );
-        console.log("https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">")));
+        //console.log("https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">")));
         const $ = cheerio.load(html.data);
         const name = $("h1").text();
         const image = "https://gamepress.gg" + $('#char-image > a > img').attr('src');
@@ -86,9 +86,9 @@ async function getDragaliaUnits(){
         const adventurer = {
             name: name,
             image: image,
-            description: description,
+            description: (description !== "")? description: " - ",
             cv: cv,
-            title: title,
+            title: (title !== "")? title: " - ",
             rarity: rarity,
             element: element,
             weapon: weapon,
@@ -100,8 +100,8 @@ async function getDragaliaUnits(){
             skills: skills
         };
 
-        //console.dir(adventurer, {depth: 5, colors: true});
-        //console.log(',')
+        console.dir(adventurer, {depth: 5, colors: true});
+        console.log(',')
     });
 };
 
