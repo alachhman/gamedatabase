@@ -20,13 +20,15 @@ async function getDragaliaDragonData(links) {
         let html = await axios.get(link);
         const $ = cheerio.load(html.data);
         const name = $('h1').text();
-        const isLocked = (name.includes("(") && !name.includes("Dragon"));
+        console.log('writing ' + name);
+        const isLocked = ((name.includes("(") && !name.includes("Dragon")) || name === "Rush");
         const image = $('#mw-content-text > div > div.panel > div.panel-body > div.portrait-container > div > div:nth-child(1) > p > a > img').attr("src");
         const str = $('#adv-str').text();
         const hp = $('#adv-hp').text();
         const maxMight = $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > span').text().replace('Does not include external buffs (e.g. Halidom, Wyrmprints, etc.)Max HP + Max Str + Lv. 2 Skill Might + Lv. 2 Ability Might + Lv. 30 Bond (* Elemental Matching Bonus)', '');
-        const rarityAlt = $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div > img').attr('alt');
+        const rarityAlt = (isLocked)?'5':$('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div > img').attr('alt');
         const rarity = rarityAlt.includes('5') ? 5 : (rarityAlt.includes('4') ? 4 : 3);
+        const favoriteFood = $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(8) > div:nth-child(2) > span > a:nth-child(2)').text();
         const dragon = {
             name: name,
             isLocked: isLocked,
@@ -34,6 +36,8 @@ async function getDragaliaDragonData(links) {
             str: str,
             hp: hp,
             maxMight: maxMight,
+            rarity: rarity,
+            favoriteFood: favoriteFood,
         };
         console.log(dragon)
     }

@@ -12,7 +12,6 @@ async function getDragaliaUnits(){
         let html = await axios.get(
             "https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">"))
         );
-        //console.log("https://gamepress.gg" + unit.title.substring(9, unit.title.indexOf("\" hreflang=\"en\">")));
         const $ = cheerio.load(html.data);
         const name = $("h1").text();
         const image = "https://gamepress.gg" + $('#char-image > a > img').attr('src');
