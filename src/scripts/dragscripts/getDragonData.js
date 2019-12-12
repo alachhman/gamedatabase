@@ -29,6 +29,22 @@ async function getDragaliaDragonData(links) {
         const rarityAlt = (isLocked)?'5':$('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div > img').attr('alt');
         const rarity = rarityAlt.includes('5') ? 5 : (rarityAlt.includes('4') ? 4 : 3);
         const favoriteFood = $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(8) > div:nth-child(2) > span > a:nth-child(2)').text();
+
+        const skillName = $('#mw-content-text > div > div.panel > div:nth-child(3) > div:nth-child(2) > table > tbody > tr > th > a').text();
+        const skillLevels = [];
+        $('#mw-content-text > div > div.panel > div:nth-child(3) > div:nth-child(2) > table > tbody > tr > td > div > div').each((i, div)=>{
+            skillLevels.push($(div).text().split('\n')[2].substring(0,$(div).text().split('\n')[2].indexOf(' (Might')))
+        });
+
+        const abilityLevels = [];
+        $('.skill-section > .skill-table.skill-level').each((i, table)=>{
+            
+        });
+
+        const skill = {
+            name: skillName,
+            levels: skillLevels
+        };
         const dragon = {
             name: name,
             isLocked: isLocked,
@@ -38,6 +54,7 @@ async function getDragaliaDragonData(links) {
             maxMight: maxMight,
             rarity: rarity,
             favoriteFood: favoriteFood,
+            skill: skill
         };
         console.log(dragon)
     }
