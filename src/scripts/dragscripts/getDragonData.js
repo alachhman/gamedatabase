@@ -24,6 +24,7 @@ async function getDragaliaDragonData(links) {
         const image = $('#mw-content-text > div > div.panel > div.panel-body > div.portrait-container > div > div:nth-child(1) > p > a > img').attr("src");
         const str = $('#adv-str').text();
         const hp = $('#adv-hp').text();
+
         const maxMight = $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > span').text().replace('Does not include external buffs (e.g. Halidom, Wyrmprints, etc.)Max HP + Max Str + Lv. 2 Skill Might + Lv. 2 Ability Might + Lv. 30 Bond (* Elemental Matching Bonus)', '');
         const rarityAlt = (isLocked) ? '5' : $('#mw-content-text > div > div.panel > div.panel-body > div:nth-child(2) > div:nth-child(6) > div:nth-child(2) > div > img').attr('alt');
         const rarity = rarityAlt.includes('5') ? 5 : (rarityAlt.includes('4') ? 4 : 3);
@@ -73,6 +74,15 @@ async function getDragaliaDragonData(links) {
             }
         });
 
+        let element = "";
+        switch ($('#mw-content-text > div > div.panel > div.panel-heading > div:nth-child(2) > span > img').attr('alt')) {
+            case 'Icon Element Flame.png': element = 'Flame'; break;
+            case 'Icon Element Water.png': element = 'Water'; break;
+            case 'Icon Element Wind.png': element = 'Wind'; break;
+            case 'Icon Element Light.png': element = 'Light'; break;
+            case 'Icon Element Shadow.png': element = 'Shadow'; break;
+        }
+
         const skill = {
             name: skillName,
             levels: skillLevels
@@ -83,6 +93,7 @@ async function getDragaliaDragonData(links) {
             image: image,
             str: str,
             hp: hp,
+            element: element,
             maxMight: maxMight,
             rarity: rarity,
             favoriteFood: favoriteFood,
