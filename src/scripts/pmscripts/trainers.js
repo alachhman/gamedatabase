@@ -1,6 +1,26 @@
 module.exports = {
     trainerData: [
         {
+            "Trainer": "Ethan",
+            "Base Potential": "",
+            "Pokemon": "Ethan & Cyndaquil     Ethan & Quilava     Ethan & Typhlosion"
+        },
+        {
+            "Trainer": "Lance",
+            "Base Potential": "",
+            "Pokemon": "Lance & Dragonite"
+        },
+        {
+            "Trainer": "Leaf",
+            "Base Potential": "",
+            "Pokemon": "Leaf & Eevee"
+        },
+        {
+            "Trainer": "Cynthia",
+            "Base Potential": "",
+            "Pokemon": "Cynthia & Garchomp     Cynthia & Mega Garchomp"
+        },
+        {
             "Trainer": "Grimsley",
             "Base Potential": "",
             "Pokemon": "Grimsely & Liepard"
@@ -273,7 +293,7 @@ module.exports = {
         {
             "Trainer": "Player",
             "Base Potential": "",
-            "Pokemon": "Player & Torchic     Player & Pikachu"
+            "Pokemon": "Player & Torchic     Player & Pikachu     Player & Solgaleo"
         },
         {
             "Trainer": "Flannery",
