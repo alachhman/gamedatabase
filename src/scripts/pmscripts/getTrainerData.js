@@ -4,7 +4,7 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 const {trainerData} = require('./trainers.js');
 log = console.log;
-const trainerFolder = "D:\\Programming\\gamedatabase\\src\\trainers\\";
+const trainerFolder = "/Users/alachhman/Documents/GitHub/gamedatabase/src/trainers/";
 
 const getTrainerData = async () => {
     for (const trainer of trainerData) {
