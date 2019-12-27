@@ -20,6 +20,7 @@ async function getDragaliaDragonData(links) {
         let html = await axios.get(link);
         const $ = cheerio.load(html.data);
         const name = $('h1').text();
+        const title = $('.panel-heading > div:nth-child(1)').text();
         const isLocked = ((name.includes("(") && !name.includes("Dragon")) || name === "Rush");
         const image = $('#mw-content-text > div > div.panel > div.panel-body > div.portrait-container > div > div:nth-child(1) > p > a > img').attr("src");
         const str = $('#adv-str').text();
@@ -89,6 +90,7 @@ async function getDragaliaDragonData(links) {
         };
         const dragon = {
             name: name,
+            title: title,
             isLocked: isLocked,
             image: image,
             str: str,
