@@ -35,6 +35,7 @@ async function getDragaliaUnits(){
             abilities.push(abilitiesTemp);
         });
 
+        //ToDo: figure out what's wrong with skill scraping
         const skills = [];
         $('.view.view-skills-on-character > div > div > div > span').each((i, skill) => {
             const name = $(skill).find('.skill-main-title > td > b > a').text();
